@@ -1,0 +1,23 @@
+{
+    "vehicles": [
+        {
+            "manufacturer": "Nova Bus",
+            "model": "LFS HEV",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number":40001,
+                        "end_number": 40251,
+                        "start_text": "40-001",
+                        "end_text": "40-251",
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins B6.7",
+                    "transmission": "BAE HybriDrive HDS200",
+                    "notes": "Les bus 40-001 à 40-061 ont une ligne de toit surélevée",
+                    "year": 2019
+                }
+            ]
+        }
+    ]
+}
