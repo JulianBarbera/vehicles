@@ -12,7 +12,7 @@
                     },
                     "engine": "2 x BYD TYC-150A",
                     "transmission": "Direct Drive",
-                    "year": "2021"
+                    "years": [2021]
                 }
             ]
         }
