@@ -1,0 +1,102 @@
+{
+    "vehicles": [
+        {
+            "manufacturer": "Kinki Sharyo 近畿車輛",
+            "model": "P3010",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number":1001,
+                        "end_number":1235,
+                        "use_numeric_sorting": true
+                    },
+                    "years": [2014,2015,2016,2017,2018]
+                }
+            ]
+        },
+        {
+            "manufacturer": "Ansaldobreda",
+            "model": "P2550",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number":701,
+                        "end_number":750,
+                        "use_numeric_sorting": true
+                    },
+                    "years": [2006,2007,2008,2009,2010,2011]
+                }
+            ]
+        },
+        {
+            "manufacturer": "Breda",
+            "model": "A650",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number":501,
+                        "end_number":530,
+                        "use_numeric_sorting": true
+                    },
+                    "years": [1991,1992]
+                }
+            ]
+        },
+        {
+            "manufacturer": "Breda",
+            "model": "A650",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number":531,
+                        "end_number":604,
+                        "use_numeric_sorting": true
+                    },
+                    "years": [1996,1997,1998,1999,2000]
+                }
+            ]
+        },
+        {
+            "manufacturer": "Siemens",
+            "model": "P2000 SD460",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number":201,
+                        "end_number":250,
+                        "use_numeric_sorting": true
+                    },
+                    "years": [1996,1997,1998,1999]
+                }
+            ]
+        },
+        {
+            "manufacturer": "Siemens",
+            "model": "P2000 SD460",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number":301,
+                        "end_number":302,
+                        "use_numeric_sorting": true
+                    },
+                    "years": [1996,1997,1998,1999]
+                }
+            ]
+        },
+        {
+            "manufacturer": "CRRC 中国中车",
+            "model": "HR4000",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 4001,
+                        "end_number":4064,
+                        "use_numeric_sorting": true
+                    },
+                    "years": [2024]
+                }
+            ]
+        }
+    ]
+}
