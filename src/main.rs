@@ -72,7 +72,7 @@ fn main() {
 
         match vehicles {
             Ok(_) => println!("File {:?} is valid", file_path),
-            Err(e) => println!("File {:?} is invalid: {:?}", file_path, e)
+            Err(e) => eprintln!("File {:?} is invalid: {:?}", file_path, e)
         }
     }
 }
