@@ -1,15 +1,14 @@
 use serde::Deserialize;
 use std::{
-    fs,
+    fs, io,
     path::{Path, PathBuf},
-    io
 };
 
 #[derive(Deserialize, Debug, Clone, PartialEq, Eq)]
 pub struct VehicleType {
     pub manufacturer: String,
     pub model: String,
-    pub roster: Vec<Roster>
+    pub roster: Vec<Roster>,
 }
 
 #[derive(Deserialize, Debug, Clone, PartialEq, Eq)]
@@ -19,7 +18,7 @@ pub struct Roster {
     pub transmission: Option<String>,
     pub notes: Option<String>,
     pub years: Option<Vec<u16>>,
-    pub division: Option<String>
+    pub division: Option<String>,
 }
 
 //range numbers are inclusive on both sides.
@@ -31,12 +30,12 @@ pub struct FleetSelector {
     pub end_number: Option<u32>,
     pub start_text: Option<String>,
     pub end_text: Option<String>,
-    pub use_numeric_sorting: bool
+    pub use_numeric_sorting: bool,
 }
 
 #[derive(Deserialize, Debug, Clone, PartialEq, Eq)]
 pub struct RootOfVehicleFile {
-    pub vehicles: Vec<VehicleType>
+    pub vehicles: Vec<VehicleType>,
 }
 
 fn find_json_files_recursive(dir: &Path) -> io::Result<Vec<PathBuf>> {
@@ -63,17 +62,24 @@ fn main() {
 
     let vehicle_files = find_json_files_recursive(folder_path).unwrap();
 
+    let mut files_valid = 0;
+    let mut files_invalid = 0;
     for file_path in vehicle_files {
-
-        println!("Checking file {:?}", file_path);
+        //  println!("Checking file {:?}", file_path);
 
         let file_read_to_string = std::fs::read_to_string(&file_path).unwrap();
         let vehicles = serde_json::from_str::<RootOfVehicleFile>(&file_read_to_string);
 
         match vehicles {
-            Ok(_) => println!("File {:?} is valid", file_path),
-            Err(e) => eprintln!("File {:?} is invalid: {:?}", file_path, e)
+            Ok(_) => {
+                files_valid += 1;
+            }
+            Err(e) => {
+                files_invalid += 1;
+                println!("Error: {:?}", e);
+            }
         }
     }
+    println!("Files valid: {}", files_valid);
+    println!("Files invalid: {}", files_invalid);
 }
-

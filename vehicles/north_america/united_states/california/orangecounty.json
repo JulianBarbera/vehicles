@@ -50,7 +50,6 @@
                     "fleet_selection": {
                         "start_number": 5801,
                         "end_number": 5858,
-                        
                         "use_numeric_sorting": true
                     },
                     "engine": "Cummins Westport ISL G or L9N",
