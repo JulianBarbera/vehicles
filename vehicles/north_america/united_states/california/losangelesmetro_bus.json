@@ -65,6 +65,72 @@
                     "engine": "Cummins Westport L9N",
                     "transmission": "Voith D864.6 4 speed",
                     "years": [2022]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number":1505,
+                        "end_number":1506,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins Westport L9N",
+                    "transmission": "Voith D864.6 4 speed",
+                    "years": [2018]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number":1507,
+                        "end_number":1599,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins Westport L9N",
+                    "transmission": "Voith D864.6 4 speed",
+                    "years": [2019]
+                }
+            ]
+        },
+        {
+            "manufacturer": "NFI",
+            "model": "XN40",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number":5600,
+                        "end_number":6149,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins Westport ISL G",
+                    "transmission": "Allison B400R 6 speed",
+                    "years": [2013]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number":4172,
+                        "end_number":4172,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins Westport ISL G NZ",
+                    "transmission": "Allison B400R 6 speed",
+                    "years": [2016]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number":3850,
+                        "end_number":4171,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins Westport ISL G",
+                    "transmission": "Allison B400R 6 speed",
+                    "years": [2015]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number":4173,
+                        "end_number":4199,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins Westport ISL G",
+                    "transmission": "Allison B400R 6 speed",
+                    "years": [2015]
                 }
             ]
         }
