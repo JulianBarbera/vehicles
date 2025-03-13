@@ -13,7 +13,7 @@
                     "engine": "Cummins L9",
                     "transmission": "BAE HybriDrive HDS3000",
                     "notes": "Entered service in May 2024.\nFirst articulated buses in the fleet to feature American Seating InSight seats\nFitted with ZF AxTrax AVE 130 powered centre axles",
-                    "year": 2023
+                    "years": [2023]
                 }
             ]
         }

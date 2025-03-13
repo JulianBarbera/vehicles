@@ -15,7 +15,7 @@
                     "engine": "Cummins B6.7",
                     "transmission": "BAE HybriDrive HDS200",
                     "notes": "Les bus 40-001 à 40-061 ont une ligne de toit surélevée",
-                    "year": 2019
+                    "years": [2019]
                 }
             ]
         }
