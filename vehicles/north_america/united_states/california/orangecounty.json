@@ -1,0 +1,22 @@
+{
+    "vehicles": [
+        {
+            "manufacturer": "NFI",
+            "model": "XN60",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number":7601,
+                        "end_number":7620,
+                        "start_text": "7601",
+                        "end_text": "7620",
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins Westport L9N",
+                    "transmission": "Allison B400R 6 speed",
+                    "year": 2013
+                }
+            ]
+        }
+    ]
+}

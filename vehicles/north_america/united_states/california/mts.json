@@ -1,0 +1,23 @@
+{
+    "vehicles": [
+        {
+            "manufacturer": "NFI",
+            "model": "XN40",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number":1501,
+                        "end_number":1506,
+                        "start_text": "1501",
+                        "end_text": "1506",
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Siemens ELFA2",
+                    "transmission": "XALT Energy",
+                    "division": "KMD, ECBMF, SBMF",
+                    "year": 2019
+                }
+            ]
+        }
+    ]
+}

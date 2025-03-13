@@ -1,0 +1,53 @@
+{
+    "vehicles": [
+        {
+            "manufacturer": "Gillig",
+            "model": "BRTPlus CNG 35' (G31B102N4)",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 121,
+                        "end_number": 321,
+                        "start_text": "0121",
+                        "end_text": "0321",
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins Westport L9N",
+                    "transmission": "Allison B400R",
+                    "year": 2021
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 322,
+                        "end_number": 422,
+                        "start_text": "0322",
+                        "end_text": "0422",
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins Westport L9N",
+                    "transmission": "Allison B400R",
+                    "year": 2022
+                }
+            ]
+        },
+        {
+            "manufacturer": "NFI",
+            "model": "C40LFR",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 1001,
+                        "end_number": 1005,
+                        "start_text": "1001",
+                        "end_text": "1005",
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins Westport ISL G",
+                    "transmission": "Allison B400R",
+                    "year": 2010,
+                    "notes": "Suburban configuration\nExclusively used on the Highway 17 Express route."
+                }
+            ]
+        }
+    ]
+}
