@@ -6,15 +6,91 @@
             "roster": [
                 {
                     "fleet_selection": {
-                        "start_number":7601,
-                        "end_number":7620,
-                        "start_text": "7601",
-                        "end_text": "7620",
+                        "start_number": 7601,
+                        "end_number": 7620,
                         "use_numeric_sorting": true
                     },
                     "engine": "Cummins Westport L9N",
                     "transmission": "Allison B400R 6 speed",
-                    "years": [2013]
+                    "years": [
+                        2013
+                    ]
+                }
+            ]
+        },
+        {
+            "manufacturer": "NFI",
+            "model": "XN40",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 5701,
+                        "end_number": 5701
+                    },
+                    "engine": "Cummins Westport ISL G or L9N",
+                    "transmission": "Allison B400R 6 speed",
+                    "years": [
+                        2015
+                    ]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 5702,
+                        "end_number": 5799
+                    },
+                    "engine": "Cummins Westport ISL G or L9N",
+                    "transmission": "Allison B400R 6 speed",
+                    "years": [
+                        2016
+                    ]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 5801,
+                        "end_number": 5858
+                    },
+                    "engine": "Cummins Westport ISL G or L9N",
+                    "transmission": "Allison B400R 6 speed",
+                    "years": [
+                        2016
+                    ]
+                }
+            ]
+        },
+        {
+            "manufacturer": "Gillig",
+            "model": "Low Floor Plus CNG 29'",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 6381,
+                        "end_number": 6392,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins Westport L9N",
+                    "transmission": "Allison B300R",
+                    "years": [
+                        2020,
+                        2021
+                    ]
+                }
+            ]
+        },
+        {
+            "manufacturer": "NFI",
+            "model": "C40LFR",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 7530,
+                        "end_number": 7592,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins Westport ISL G NZ",
+                    "transmission": "Allison B400R 6 speed",
+                    "years": [
+                        2008
+                    ]
                 }
             ]
         }
