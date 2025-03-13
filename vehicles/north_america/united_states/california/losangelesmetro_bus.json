@@ -2,6 +2,22 @@
     "vehicles": [
         {
             "manufacturer": "BYD",
+            "model": "K9M-ER",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number":10005,
+                        "end_number":10099,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "2 x BYD TYC-150A",
+                    "transmission": "Direct Drive",
+                    "years": [2024]
+                }
+            ]
+        },
+        {
+            "manufacturer": "BYD",
             "model": "K9M",
             "roster": [
                 {
@@ -13,6 +29,42 @@
                     "engine": "2 x BYD TYC-150A",
                     "transmission": "Direct Drive",
                     "years": [2021]
+                }
+            ]
+        },
+        {
+            "manufacturer": "ElDorado National",
+            "model": "Axess BRT 40' CNG",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number":1800,
+                        "end_number":1861,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins Westport L9N",
+                    "transmission": "Voith D864.6 4 speed",
+                    "years": [2020]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number":1862,
+                        "end_number":2020,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins Westport L9N",
+                    "transmission": "Voith D864.6 4 speed",
+                    "years": [2021]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number":2021,
+                        "end_number":8766,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins Westport L9N",
+                    "transmission": "Voith D864.6 4 speed",
+                    "years": [2022]
                 }
             ]
         }
