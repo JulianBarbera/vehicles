@@ -1,0 +1,21 @@
+{
+    "vehicles": [
+        {
+            "manufacturer": "NFI",
+            "model": "XDE60",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 24001,
+                        "end_number": 24016,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins L9",
+                    "transmission": "BAE HybriDrive HDS3000",
+                    "notes": "Entered service in May 2024.\nFirst articulated buses in the fleet to feature American Seating InSight seats\nFitted with ZF AxTrax AVE 130 powered centre axles",
+                    "years": [2023]
+                }
+            ]
+        }
+    ]
+}

@@ -14,7 +14,7 @@
                     },
                     "engine": "Cummins Westport L9N",
                     "transmission": "Allison B400R 6 speed",
-                    "year": 2013
+                    "years": [2013]
                 }
             ]
         }

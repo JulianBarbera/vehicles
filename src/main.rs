@@ -18,7 +18,7 @@ pub struct Roster {
     pub engine: Option<String>,
     pub transmission: Option<String>,
     pub notes: Option<String>,
-    pub year: Option<u16>,
+    pub years: Option<Vec<u16>>,
     pub division: Option<String>
 }
 
@@ -72,7 +72,7 @@ fn main() {
 
         match vehicles {
             Ok(_) => println!("File {:?} is valid", file_path),
-            Err(e) => println!("File {:?} is invalid: {:?}", file_path, e)
+            Err(e) => eprintln!("File {:?} is invalid: {:?}", file_path, e)
         }
     }
 }

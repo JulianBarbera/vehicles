@@ -14,7 +14,7 @@
                     },
                     "engine": "Cummins Westport L9N",
                     "transmission": "Allison B400R",
-                    "year": 2021
+                    "years": [2021]
                 },
                 {
                     "fleet_selection": {
@@ -26,7 +26,7 @@
                     },
                     "engine": "Cummins Westport L9N",
                     "transmission": "Allison B400R",
-                    "year": 2022
+                    "years": [2022]
                 }
             ]
         },
@@ -44,7 +44,7 @@
                     },
                     "engine": "Cummins Westport ISL G",
                     "transmission": "Allison B400R",
-                    "year": 2010,
+                    "years": [2010],
                     "notes": "Suburban configuration\nExclusively used on the Highway 17 Express route."
                 }
             ]

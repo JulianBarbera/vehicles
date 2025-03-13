@@ -15,7 +15,7 @@
                     "engine": "Siemens ELFA2",
                     "transmission": "XALT Energy",
                     "division": "KMD, ECBMF, SBMF",
-                    "year": 2019
+                    "years": [2019]
                 }
             ]
         }
