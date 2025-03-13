@@ -1,0 +1,20 @@
+{
+    "vehicles": [
+        {
+            "manufacturer": "BYD",
+            "model": "K9M",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number":10000,
+                        "end_number":10004,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "2 x BYD TYC-150A",
+                    "transmission": "Direct Drive",
+                    "year": "2021"
+                }
+            ]
+        }
+    ]
+}

@@ -18,7 +18,7 @@ pub struct Roster {
     pub engine: Option<String>,
     pub transmission: Option<String>,
     pub notes: Option<String>,
-    pub year: Option<u16>,
+    pub years: Option<Vec<u16>>,
     pub division: Option<String>
 }
 
