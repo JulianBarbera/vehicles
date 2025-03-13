@@ -25,7 +25,8 @@
                 {
                     "fleet_selection": {
                         "start_number": 5701,
-                        "end_number": 5701
+                        "end_number": 5701,
+                        "use_numeric_sorting": true
                     },
                     "engine": "Cummins Westport ISL G or L9N",
                     "transmission": "Allison B400R 6 speed",
@@ -36,7 +37,8 @@
                 {
                     "fleet_selection": {
                         "start_number": 5702,
-                        "end_number": 5799
+                        "end_number": 5799,
+                        "use_numeric_sorting": true
                     },
                     "engine": "Cummins Westport ISL G or L9N",
                     "transmission": "Allison B400R 6 speed",
@@ -47,7 +49,9 @@
                 {
                     "fleet_selection": {
                         "start_number": 5801,
-                        "end_number": 5858
+                        "end_number": 5858,
+                        
+                        "use_numeric_sorting": true
                     },
                     "engine": "Cummins Westport ISL G or L9N",
                     "transmission": "Allison B400R 6 speed",
