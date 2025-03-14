@@ -1,21 +1,86 @@
 {
     "vehicles": [
         {
-            "manufacturer": "NFI",
-            "model": "XN40",
+            "manufacturer": "Dodge",
+            "model": "Grand Caravan",
             "roster": [
                 {
                     "fleet_selection": {
-                        "start_number":1501,
-                        "end_number":1506,
-                        "start_text": "1501",
-                        "end_text": "1506",
+                        "start_number": 3701,
+                        "end_number": 3714,
                         "use_numeric_sorting": true
                     },
-                    "engine": "Siemens ELFA2",
-                    "transmission": "XALT Energy",
-                    "division": "KMD, ECBMF, SBMF",
-                    "years": [2019]
+                    "division": "Copley Park Place - for SANDAG use",
+                    "years": [
+                        2019
+                    ]
+                }
+            ]
+        },
+        {
+            "manufacturer": "El Dorado",
+            "model": "AeroElite 32' Propane Minibus",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 3100,
+                        "end_number": 3131,
+                        "use_numeric_sorting": true
+                    },
+                    "division": "Copley Park Place",
+                    "years": [
+                        2016
+                    ]
+                }
+            ]
+        },
+        {
+            "manufacturer": "Gillig",
+            "model": "40' CNG Low Floor",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 201,
+                        "end_number": 223,
+                        "use_numeric_sorting": true
+                    },
+                    "division": "Kearny Mesa",
+                    "years": [
+                        2015
+                    ]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 801,
+                        "end_number": 826,
+                        "use_numeric_sorting": true
+                    },
+                    "division": "Imp'l Avenue",
+                    "years": [
+                        2013
+                    ]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 901,
+                        "end_number": 912,
+                        "use_numeric_sorting": true
+                    },
+                    "division": "Kearny Mesa",
+                    "years": [
+                        2014
+                    ]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 1401,
+                        "end_number": 1410,
+                        "use_numeric_sorting": true
+                    },
+                    "division": "Kearny Mesa",
+                    "years": [
+                        2017
+                    ]
                 }
             ]
         }
