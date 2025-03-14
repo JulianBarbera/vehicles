@@ -1,14 +1,88 @@
 {
     "vehicles": [
         {
+            "manufacturer": "Proterra",
+            "model": "ZX5 40'",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 120,
+                        "end_number": 120,
+                        "start_text": "0120",
+                        "end_text": "0120",
+                        "use_numeric_sorting": true
+                    },
+                    "transmission": "Eaton EEV-7202", 
+                    "years": [2020]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 220,
+                        "end_number": 220,
+                        "start_text": "0220",
+                        "end_text": "0220",
+                        "use_numeric_sorting": true
+                    },
+                    "transmission": "Eaton EEV-7202", 
+                    "years": [2020]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 320,
+                        "end_number": 320,
+                        "start_text": "0320",
+                        "end_text": "0320",
+                        "use_numeric_sorting": true
+                    },
+                    "transmission": "Eaton EEV-7202", 
+                    "years": [2020]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 420,
+                        "end_number": 420,
+                        "start_text": "0420",
+                        "end_text": "0420",
+                        "use_numeric_sorting": true
+                    },
+                    "transmission": "Eaton EEV-7202", 
+                    "years": [2020]
+                }
+            ]
+        },
+        {
             "manufacturer": "Gillig",
             "model": "BRTPlus CNG 35' (G31B102N4)",
             "roster": [
                 {
                     "fleet_selection": {
                         "start_number": 121,
-                        "end_number": 321,
+                        "end_number": 121,
                         "start_text": "0121",
+                        "end_text": "0121",
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins Westport L9N",
+                    "transmission": "Allison B400R",
+                    "years": [2021]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 221,
+                        "end_number": 221,
+                        "start_text": "0221",
+                        "end_text": "0221",
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins Westport L9N",
+                    "transmission": "Allison B400R",
+                    "years": [2021]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 321,
+                        "end_number": 321,
+                        "start_text": "0321",
                         "end_text": "0321",
                         "use_numeric_sorting": true
                     },
@@ -18,15 +92,153 @@
                 },
                 {
                     "fleet_selection": {
+                        "start_number": 122,
+                        "end_number": 122,
+                        "start_text": "0122",
+                        "end_text": "0122",
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins Westport L9N",
+                    "transmission": "Allison B400R",
+                    "years": [2022]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 222,
+                        "end_number": 222,
+                        "start_text": "0222",
+                        "end_text": "0222",
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins Westport L9N",
+                    "transmission": "Allison B400R",
+                    "years": [2022]
+                },
+                {
+                    "fleet_selection": {
                         "start_number": 322,
-                        "end_number": 422,
+                        "end_number": 322,
                         "start_text": "0322",
+                        "end_text": "0322",
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins Westport L9N",
+                    "transmission": "Allison B400R",
+                    "years": [2022]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 422,
+                        "end_number": 422,
+                        "start_text": "0422",
                         "end_text": "0422",
                         "use_numeric_sorting": true
                     },
                     "engine": "Cummins Westport L9N",
                     "transmission": "Allison B400R",
                     "years": [2022]
+                }
+            ]
+        },
+        {
+            "manufacturer": "Gillig",
+            "model": "BRTPlus CNG 40' (G31D102N4)",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 421,
+                        "end_number": 421,
+                        "start_text": "0421",
+                        "end_text": "0421",
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins Westport L9N",
+                    "transmission": "Allison B400R",
+                    "years": [2021]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 521,
+                        "end_number": 521,
+                        "start_text": "0521",
+                        "end_text": "0521",
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins Westport L9N",
+                    "transmission": "Allison B400R",
+                    "years": [2021]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 621,
+                        "end_number": 621,
+                        "start_text": "0621",
+                        "end_text": "0621",
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins Westport L9N",
+                    "transmission": "Allison B400R",
+                    "years": [2021]
+                }
+            ]
+        },
+        {
+            "manufacturer": "Gillig",
+            "model": "Low Floor EV 40' (G28D102N4)",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 123,
+                        "end_number": 123,
+                        "start_text": "0123",
+                        "end_text": "0123",
+                        "use_numeric_sorting": true
+                    },
+                    "years": [2023]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 223,
+                        "end_number": 223,
+                        "start_text": "0223",
+                        "end_text": "0223",
+                        "use_numeric_sorting": true
+                    },
+                    "years": [2023],
+                    "notes": "Suburban configuration"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 323,
+                        "end_number": 323,
+                        "start_text": "0323",
+                        "end_text": "0323",
+                        "use_numeric_sorting": true
+                    },
+                    "years": [2023],
+                    "notes": "Suburban configuration"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 423,
+                        "end_number": 423,
+                        "start_text": "0423",
+                        "end_text": "0423",
+                        "use_numeric_sorting": true
+                    },
+                    "years": [2023],
+                    "notes": "Suburban configuration"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 523,
+                        "end_number": 523,
+                        "start_text": "0523",
+                        "end_text": "0523",
+                        "use_numeric_sorting": true
+                    },
+                    "years": [2023],
+                    "notes": "Suburban configuration"
                 }
             ]
         },
@@ -45,7 +257,341 @@
                     "engine": "Cummins Westport ISL G",
                     "transmission": "Allison B400R",
                     "years": [2010],
-                    "notes": "Suburban configuration\nExclusively used on the Highway 17 Express route."
+                    "notes": "Suburban configuration"
+                }
+            ]
+        },
+        {
+            "manufacturer": "NFI",
+            "model": "C40LFR",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 1201,
+                        "end_number": 1211,
+                        "start_text": "1201",
+                        "end_text": "1211",
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins Westport ISL G",
+                    "transmission": "Allison B400R",
+                    "years": [2012],
+                    "notes": "2011 model, built in 2012"
+                }
+            ]
+        },
+        {
+            "manufacturer": "NFI",
+            "model": "XN35",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 1301,
+                        "end_number": 1306,
+                        "start_text": "1301",
+                        "end_text": "1306",
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins Westport ISL G",
+                    "transmission": "Allison B400R",
+                    "years": [2013],
+                    "notes": "ex-Paul Revere Transportation"
+                }
+            ]
+        },
+        {
+            "manufacturer": "NFI",
+            "model": "XN40",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 1610,
+                        "end_number": 1612,
+                        "start_text": "1610",
+                        "end_text": "1612",
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins Westport ISL G",
+                    "transmission": "Allison B400R",
+                    "years": [2012],
+                    "notes": "ex-Paul Revere Transportation"
+                }
+            ]
+        },
+        {
+            "manufacturer": "Gillig",
+            "model": "BRTPlus CNG 40' (G31D102N4)",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 1901,
+                        "end_number": 1905,
+                        "start_text": "1901",
+                        "end_text": "1905",
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins Westport L9N",
+                    "transmission": "Allison B400R",
+                    "years": [2019]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 2001,
+                        "end_number": 2001,
+                        "start_text": "2001",
+                        "end_text": "2001",
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins Westport L9N",
+                    "transmission": "Allison B400R",
+                    "years": [2020]
+                }
+            ]
+        },
+        {
+            "manufacturer": "NFI",
+            "model": "D35LF",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 2210,
+                        "end_number": 2224,
+                        "start_text": "2210",
+                        "end_text": "2224",
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "John Deere 6081H",
+                    "transmission": "Allison B400R",
+                    "years": [2003],
+                    "notes": "2002 model, built in 2003. Originally powered by diesel; converted to CNG"
+                }
+            ]
+        },
+        {
+            "manufacturer": "NFI",
+            "model": "D40LF",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 2226,
+                        "end_number": 2229,
+                        "start_text": "2226",
+                        "end_text": "2229",
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "John Deere 6081H",
+                    "transmission": "Allison B400R",
+                    "years": [2003],
+                    "notes": "2002 model, built in 2003. Originally powered by diesel; converted to CNG"
+                }
+            ]
+        },
+        {
+            "manufacturer": "NFI",
+            "model": "D60LF",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 2316,
+                        "end_number": 2316,
+                        "start_text": "2316",
+                        "end_text": "2316",
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISL",
+                    "transmission": "Allison B500R",
+                    "years": [2002],
+                    "notes": "ex-Santa Clara VTA"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 2318,
+                        "end_number": 2318,
+                        "start_text": "2318",
+                        "end_text": "2318",
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISL",
+                    "transmission": "Allison B500R",
+                    "years": [2002],
+                    "notes": "ex-Santa Clara VTA"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 2333,
+                        "end_number": 2333,
+                        "start_text": "2333",
+                        "end_text": "2333",
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISL",
+                    "transmission": "Allison B500R",
+                    "years": [2002],
+                    "notes": "ex-Santa Clara VTA"
+                }
+            ]
+        },
+        {
+            "manufacturer": "NFI",
+            "model": "C40LF",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 2601,
+                        "end_number": 2602,
+                        "start_text": "2601",
+                        "end_text": "2602",
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins Westport ISL G",
+                    "transmission": "Allison B400R",
+                    "years": [2006]
+                    
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 2801,
+                        "end_number": 2805,
+                        "start_text": "2801",
+                        "end_text": "2805",
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins Westport ISL G",
+                    "transmission": "Allison B400R",
+                    "years": [2008],
+                    "notes": "Suburban configuration"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 2806,
+                        "end_number": 2813,
+                        "start_text": "2806",
+                        "end_text": "2813",
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins Westport ISL G",
+                    "transmission": "Allison B400R",
+                    "years": [2008]
+                }
+            ]
+        },
+        {
+            "manufacturer": "Gillig",
+            "model": "Low Floor HEV '40 (G30D102N4)",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 4201,
+                        "end_number": 4210,
+                        "start_text": "4201",
+                        "end_text": "4210",
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISB6.7",
+                    "years": [2014],
+                    "notes": "Suburban configuration. ex-Santa Clara VTA"
+                }
+            ]
+        },
+        {
+            "manufacturer": "NFI",
+            "model": "D35LF",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 9801,
+                        "end_number": 9818,
+                        "start_text": "9801",
+                        "end_text": "9818",
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Detroit Diesel Series 50",
+                    "transmission": "Allison B400R",
+                    "years": [1998]
+                }
+            ]
+        },
+        {
+            "manufacturer": "NFI",
+            "model": "D40LF",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 9820,
+                        "end_number": 9827,
+                        "start_text": "9820",
+                        "end_text": "9827",
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Detroit Diesel Series 50",
+                    "transmission": "Allison B400R",
+                    "years": [1998]
+                }
+            ]
+        },
+        {
+            "manufacturer": "NFI",
+            "model": "XN60",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 11012,
+                        "end_number": 11012,
+                        "start_text": "11012",
+                        "end_text": "11012",
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins Westport ISL G",
+                    "transmission": "ZF EcoLife",
+                    "years": [2013]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 11016,
+                        "end_number": 11016,
+                        "start_text": "11016",
+                        "end_text": "11016",
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins Westport ISL G",
+                    "transmission": "ZF EcoLife",
+                    "years": [2013]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 11018,
+                        "end_number": 11019,
+                        "start_text": "11018",
+                        "end_text": "11019",
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins Westport ISL G",
+                    "transmission": "ZF EcoLife",
+                    "years": [2013]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 11022,
+                        "end_number": 11023,
+                        "start_text": "11022",
+                        "end_text": "11023",
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins Westport ISL G",
+                    "transmission": "ZF EcoLife",
+                    "years": [2013]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 11025,
+                        "end_number": 11028,
+                        "start_text": "11025",
+                        "end_text": "11028",
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins Westport ISL G",
+                    "transmission": "ZF EcoLife",
+                    "years": [2013]
                 }
             ]
         }
