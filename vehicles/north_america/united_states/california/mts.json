@@ -81,6 +81,177 @@
                     "years": [
                         2017
                     ]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 1701,
+                        "end_number": 1715,
+                        "use_numeric_sorting": true
+                    },
+                    "division": "Imp'l Avenue",
+                    "years": [
+                        2020
+                    ]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 1716,
+                        "end_number": 1738,
+                        "use_numeric_sorting": true
+                    },
+                    "division": "Kearny Mesa",
+                    "years": [
+                        2020
+                    ]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 2001,
+                        "end_number": 2014,
+                        "use_numeric_sorting": true
+                    },
+                    "division": "South Bay",
+                    "years": [
+                        2015
+                    ]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 2101,
+                        "end_number": 2136,
+                        "use_numeric_sorting": true
+                    },
+                    "division": "South Bay",
+                    "years": [
+                        2017
+                    ]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 2201,
+                        "end_number": 2238,
+                        "use_numeric_sorting": true
+                    },
+                    "division": "South Bay",
+                    "years": [
+                        2022
+                    ]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 2301,
+                        "end_number": 2306,
+                        "use_numeric_sorting": true
+                    },
+                    "division": "East County",
+                    "years": [
+                        2013
+                    ]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 2307,
+                        "end_number": 2324,
+                        "use_numeric_sorting": true
+                    },
+                    "division": "South Bay",
+                    "years": [
+                        2013
+                    ]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 2401,
+                        "end_number": 2438,
+                        "use_numeric_sorting": true
+                    },
+                    "division": "South Bay",
+                    "years": [
+                        2014
+                    ]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 2601,
+                        "end_number": 2632,
+                        "use_numeric_sorting": true
+                    },
+                    "division": "South Bay",
+                    "years": [
+                        2021
+                    ]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 2781,
+                        "end_number": 2787,
+                        "use_numeric_sorting": true
+                    },
+                    "division": "South Bay",
+                    "years": [
+                        2018
+                    ]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 2791,
+                        "end_number": 2795,
+                        "use_numeric_sorting": true
+                    },
+                    "division": "South Bay",
+                    "years": [
+                        2020
+                    ]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 8201,
+                        "end_number": 8213,
+                        "use_numeric_sorting": true
+                    },
+                    "division": "East County",
+                    "years": [
+                        2015
+                    ]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 8301,
+                        "end_number": 8338,
+                        "use_numeric_sorting": true
+                    },
+                    "division": "East County",
+                    "years": [
+                        2016
+                    ]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 8351,
+                        "end_number": 8356,
+                        "use_numeric_sorting": true
+                    },
+                    "division": "East County",
+                    "years": [
+                        2019
+                    ]
+                }
+            ]
+        },
+        {
+            "manufacturer": "Gillig",
+            "model": "40' G28D BEB",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 1601,
+                        "end_number": 1607,
+                        "use_numeric_sorting": true
+                    },
+                    "division": "Imp'l Avenue",
+                    "years": [
+                        2021
+                    ]
                 }
             ]
         }
