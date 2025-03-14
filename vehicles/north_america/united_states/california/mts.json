@@ -35,6 +35,79 @@
             ]
         },
         {
+            "manufacturer": "Starcraft",
+            "model": "22' All-Star",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 3201,
+                        "end_number": 3226,
+                        "use_numeric_sorting": true
+                    },
+                    "division": "Copley Park Place",
+                    "years": [
+                        2017
+                    ]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 3351,
+                        "end_number": 3396,
+                        "use_numeric_sorting": true
+                    },
+                    "division": "Copley Park Place",
+                    "years": [
+                        2016
+                    ]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 3631,
+                        "end_number": 3665,
+                        "use_numeric_sorting": true
+                    },
+                    "division": "Copley Park Place",
+                    "years": [
+                        2018
+                    ]
+                }
+            ]
+        },
+        {
+            "manufacturer": "Starcraft",
+            "model": "32' All-Star XL",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 3506,
+                        "end_number": 3508,
+                        "use_numeric_sorting": true
+                    },
+                    "division": "East County",
+                    "years": [
+                        2019
+                    ]
+                }
+            ]
+        },
+        {
+            "manufacturer": "MCI",
+            "model": "D4500 CNG Coach",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 8531,
+                        "end_number": 8554,
+                        "use_numeric_sorting": true
+                    },
+                    "division": "East County",
+                    "years": [
+                        2020
+                    ]
+                }
+            ]
+        },
+        {
             "manufacturer": "Gillig",
             "model": "40' CNG Low Floor",
             "roster": [
