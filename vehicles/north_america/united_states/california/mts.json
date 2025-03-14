@@ -1,6 +1,56 @@
 {
     "vehicles": [
         {
+            "manufacturer": "New Flyer",
+            "model": "C40LFR",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 601,
+                        "end_number": 621,
+                        "use_numeric_sorting": true
+                    },
+                    "division": "Imp'l Avenue",
+                    "years": [
+                        2011
+                    ]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 701,
+                        "end_number": 731,
+                        "use_numeric_sorting": true
+                    },
+                    "division": "Imp'l Avenue",
+                    "years": [
+                        2012
+                    ]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 2923,
+                        "end_number": 2927,
+                        "use_numeric_sorting": true
+                    },
+                    "division": "South Bay",
+                    "years": [
+                        2011
+                    ]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 2901,
+                        "end_number": 2922,
+                        "use_numeric_sorting": true
+                    },
+                    "division": "South Bay",
+                    "years": [
+                        2012
+                    ]
+                }
+            ]
+        },
+        {
             "manufacturer": "Dodge",
             "model": "Grand Caravan",
             "roster": [
