@@ -1,5 +1,140 @@
 {
     "vehicles": [
-       
+        {
+            "manufacturer": "New Flyer",
+            "model": "D40LF",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 1138,
+                        "end_number": 1147,
+                        "use_numeric_sorting": true
+                    },
+                    "years": [
+                        2000
+                    ]
+                }
+            ]
+        },
+        {
+            "manufacturer": "New Flyer",
+            "model": "C40LF",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 2501,
+                        "end_number": 2512,
+                        "use_numeric_sorting": true
+                    },
+                    "years": [
+                        2007
+                    ]
+                }
+            ]
+        },
+        {
+            "manufacturer": "New Flyer",
+            "model": "XN35",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 1901,
+                        "end_number": 1910,
+                        "use_numeric_sorting": true
+                    },
+                    "years": [
+                        2019
+                    ]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 1911,
+                        "end_number": 1920,
+                        "use_numeric_sorting": true
+                    },
+                    "years": [
+                        2020
+                    ]
+                }
+            ]
+        },
+        {
+            "manufacturer": "New Flyer",
+            "model": "XE40",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 2221,
+                        "end_number": 2226,
+                        "use_numeric_sorting": true
+                    },
+                    "years": [
+                        2023
+                    ]
+                }
+            ]
+        },
+        {
+            "manufacturer": "New Flyer",
+            "model": "XHE40",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 2331,
+                        "end_number": 2342,
+                        "use_numeric_sorting": true
+                    },
+                    "years": [
+                        2024
+                    ]
+                }
+            ]
+        },
+        {
+            "manufacturer": "New Flyer",
+            "model": "XN40",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 2011,
+                        "end_number": 2030,
+                        "use_numeric_sorting": true
+                    },
+                    "years": [
+                        2021
+                    ]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 2121,
+                        "end_number": 2150,
+                        "use_numeric_sorting": true
+                    },
+                    "years": [
+                        2022
+                    ]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 2601,
+                        "end_number": 2630,
+                        "use_numeric_sorting": true
+                    },
+                    "years": [
+                        2012
+                    ]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 2701,
+                        "end_number": 2726,
+                        "use_numeric_sorting": true
+                    },
+                    "years": [
+                        2016
+                    ]
+                }
+            ]
+        }
     ]
 }
