@@ -51,6 +51,145 @@
             ]
         },
         {
+            "manufacturer": "New Flyer",
+            "model": "XN60",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 1801,
+                        "end_number": 1826,
+                        "use_numeric_sorting": true
+                    },
+                    "division": "Imp'l Avenue",
+                    "years": [
+                        2021
+                    ]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 1105,
+                        "end_number": 1121,
+                        "use_numeric_sorting": true
+                    },
+                    "division": "Kearny Mesa",
+                    "years": [
+                        2013
+                    ]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 1201,
+                        "end_number": 1218,
+                        "use_numeric_sorting": true
+                    },
+                    "division": "Imp'l Avenue",
+                    "years": [
+                        2013
+                    ]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 1301,
+                        "end_number": 1313,
+                        "use_numeric_sorting": true
+                    },
+                    "division": "Kearny Mesa",
+                    "years": [
+                        2015
+                    ]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 1901,
+                        "end_number": 1924,
+                        "use_numeric_sorting": true
+                    },
+                    "division": "Kearny Mesa",
+                    "years": [
+                        2023
+                    ]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 7401,
+                        "end_number": 7410,
+                        "use_numeric_sorting": true
+                    },
+                    "division": "South Bay",
+                    "years": [
+                        2017
+                    ]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 7501,
+                        "end_number": 7517,
+                        "use_numeric_sorting": true
+                    },
+                    "division": "South Bay",
+                    "years": [
+                        2018
+                    ]
+                }
+            ]
+        },
+        {
+            "manufacturer": "New Flyer",
+            "model": "XE40 CHARGE",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 1501,
+                        "end_number": 1502,
+                        "use_numeric_sorting": true
+                    },
+                    "division": "Kearny Mesa",
+                    "years": [
+                        2019
+                    ]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 1503,
+                        "end_number": 1504,
+                        "use_numeric_sorting": true
+                    },
+                    "division": "East County",
+                    "years": [
+                        2019
+                    ]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 1505,
+                        "end_number": 1506,
+                        "use_numeric_sorting": true
+                    },
+                    "division": "South Bay",
+                    "years": [
+                        2019
+                    ]
+                }
+            ]
+        },
+        {
+            "manufacturer": "New Flyer",
+            "model": "XE60 CHARGE",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 7551,
+                        "end_number": 7562,
+                        "use_numeric_sorting": true
+                    },
+                    "division": "South Bay",
+                    "years": [
+                        2022
+                    ]
+                }
+            ]
+        },
+        {
             "manufacturer": "Dodge",
             "model": "Grand Caravan",
             "roster": [
