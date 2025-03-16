@@ -488,6 +488,7 @@
                         "use_numeric_sorting": true
                     },
                     "engine": "Cummins ISB6.7",
+                    "transmission":"BAE HDS200",
                     "years": [2014],
                     "notes": "Suburban configuration\nex-Santa Clara VTA"
                 }
