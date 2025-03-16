@@ -34,6 +34,38 @@
         },
         {
             "manufacturer": "BYD",
+            "model": "K9MD-ER",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number":10005,
+                        "end_number":10099,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "2 x BYD TYC-150A",
+                    "transmission": "Direct Drive",
+                    "years": [2024]
+                }
+            ]
+        },
+        {
+            "manufacturer": "New Flyer",
+            "model": "XE60",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number":19500,
+                        "end_number":19539,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Siemens ELFA2",
+                    "transmission": "XALT Energy",
+                    "years": [2019,2020]
+                }
+            ]
+        },
+        {
+            "manufacturer": "BYD",
             "model": "K11M",
             "roster": [
                 {
@@ -85,6 +117,25 @@
             "manufacturer": "NABI",
             "model": "45C CNG",
             "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 8100,
+                        "end_number":8359,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins Westport ISL-G or ISL-G NZ or L9N",
+                    "transmission": "Allison B400R",
+                    "years": [2008]
+                },{
+                    "fleet_selection": {
+                        "start_number": 8360,
+                        "end_number":8400,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins Westport ISL-G or ISL-G NZ or L9N",
+                    "transmission": "Allison B400R",
+                    "years": [2009]
+                },
                 {
                     "fleet_selection": {
                         "start_number": 8401,
