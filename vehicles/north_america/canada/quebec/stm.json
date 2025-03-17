@@ -54,6 +54,33 @@
                     "years": [2024]
                 }
             ]
+        },
+        {
+            "manufacturer": "Nova Bus",
+            "model": "LFS 40102",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 30001,
+                        "end_number": 30094,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISL9",
+                    "transmission": "ZF 6HP554C",
+                    "years": [2010],
+                    "notes": "Aménagement intérieur des sièges légèrement différent. Les bus 30-016 à 30-020 sont équipés de porte-bagages."
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 30095,
+                        "end_number": 30255,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISL9",
+                    "transmission": "ZF 6AP1400B",
+                    "years": [2010]
+                }
+            ]
         }
     ]
 }
