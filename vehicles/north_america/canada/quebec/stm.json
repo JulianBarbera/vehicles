@@ -19,6 +19,19 @@
                 },
                 {
                     "fleet_selection": {
+                        "start_number":36028,
+                        "end_number": 36051,
+                        "start_text": "36-028",
+                        "end_text": "36-051",
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins B6.7",
+                    "transmission": "BAE HybriDrive HDS200",
+                    "notes": "Tous équipés de climatisation ; les modèles 36-040 et plus sont équipés de fenêtres coulissantes",
+                    "years": [2016]
+                },
+                {
+                    "fleet_selection": {
                         "start_number":40001,
                         "end_number": 40251,
                         "start_text": "40-001",
