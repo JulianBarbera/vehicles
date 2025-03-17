@@ -1,0 +1,49 @@
+{
+    "vehicles": [
+        {
+            "manufacturer": "Nova Bus",
+            "model": "LFS HEV",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number":2401,
+                        "end_number": 2424,
+                        "use_numeric_sorting": true
+                    },
+                    "years": [2024]
+                }
+            ]
+        },
+        {
+            "manufacturer": "Nova Bus",
+            "model": "LFS Artic HEV",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number":2451,
+                        "end_number": 2499,
+                        "use_numeric_sorting": true
+                    },
+                    "years": [2024]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number":2351,
+                        "end_number": 2360,
+                        "use_numeric_sorting": true
+                    },
+                    "years": [2023]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number":2251,
+                        "end_number": 2251,
+                        "use_numeric_sorting": true
+                    },
+                    "years": [2022],
+                    "notes": "One articulated hybrid unit #2251"
+                }
+            ]
+        }
+    ]
+}

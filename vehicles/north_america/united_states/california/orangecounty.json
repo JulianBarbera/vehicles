@@ -1,7 +1,7 @@
 {
     "vehicles": [
         {
-            "manufacturer": "NFI",
+            "manufacturer": "New Flyer",
             "model": "XN60",
             "roster": [
                 {
@@ -19,7 +19,7 @@
             ]
         },
         {
-            "manufacturer": "NFI",
+            "manufacturer": "New Flyer",
             "model": "XN40",
             "roster": [
                 {
@@ -80,7 +80,7 @@
             ]
         },
         {
-            "manufacturer": "NFI",
+            "manufacturer": "New Flyer",
             "model": "C40LFR",
             "roster": [
                 {

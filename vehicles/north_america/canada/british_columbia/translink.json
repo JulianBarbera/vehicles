@@ -1,7 +1,7 @@
 {
     "vehicles": [
         {
-            "manufacturer": "NFI",
+            "manufacturer": "New Flyer",
             "model": "XDE60",
             "roster": [
                 {
@@ -12,7 +12,46 @@
                     },
                     "engine": "Cummins L9",
                     "transmission": "BAE HybriDrive HDS3000",
-                    "notes": "Entered service in May 2024.\nFirst articulated buses in the fleet to feature American Seating InSight seats\nFitted with ZF AxTrax AVE 130 powered centre axles",
+                    "notes": "Entered service in May 2024.\n New Flyers First articulated buses in the fleet to feature American Seating InSight seats\n Fitted with ZF AxTrax AVE 130 powered centre axles",
+                    "years": [2023]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 23001,
+                        "end_number": 23015,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins L9",
+                    "transmission": "BAE HybriDrive HDS3000",
+                    "notes": "Entered service in December 2023",
+                    "years": [2023]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 21001,
+                        "end_number": 21025,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins L9",
+                    "transmission": "BAE HybriDrive HDS3000",
+                    "notes": "Entered service in March 2022.\nOrder for 55 units postponed due to the 2021 Global Shipping and Logistics shortage, revised to 25 units",
+                    "years": [2021]
+                }
+            ]
+        },
+        {
+            "manufacturer": "Nova Bus",
+            "model": "LFS Natural Gas",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 24101,
+                        "end_number": 24150,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins Westport L9N",
+                    "transmission": "ZF EcoLife 6AP1420B",
+                    "notes": "Entered service in August 2024",
                     "years": [2023]
                 }
             ]
