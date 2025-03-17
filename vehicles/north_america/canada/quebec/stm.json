@@ -16,6 +16,42 @@
                     "transmission": "BAE HybriDrive HDS200",
                     "notes": "Les bus 40-001 à 40-061 ont une ligne de toit surélevée",
                     "years": [2019]
+                },
+                {   
+                    "fleet_selection": {
+                        "start_number":41001,
+                        "end_number": 41129,
+                        "start_text": "41-001",
+                        "end_text": "41-129",
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins B6.7",
+                    "transmission": "BAE HybriDrive HDS200",
+                    "years": [2021]
+                },
+                {   
+                    "fleet_selection": {
+                        "start_number":42001,
+                        "end_number": 42049,
+                        "start_text": "42-001",
+                        "end_text": "42-049",
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins B6.7",
+                    "transmission": "BAE HybriDrive HDS200",
+                    "years": [2022]
+                },
+                {   
+                    "fleet_selection": {
+                        "start_number":44001,
+                        "end_number": 44034,
+                        "start_text": "44-001",
+                        "end_text": "44-034",
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins B6.7",
+                    "transmission": "BAE HybriDrive HDS200",
+                    "years": [2024]
                 }
             ]
         }
