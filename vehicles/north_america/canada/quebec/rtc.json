@@ -81,7 +81,7 @@
                         "use_numeric_sorting": true
                     },
                     "years": [2022],
-                    "notes": "One articulated hybrid unit #2251"
+                    "notes": "Une seule unité hybride articulée #2251"
                 },
                 {
                     "fleet_selection": {
@@ -92,6 +92,34 @@
                     "transmission": "BAE HybriDrive HDS300",
                     "engine":"Cummins ISL9",
                     "years": [2016]
+                }
+            ]
+        },
+        {
+            "manufacturer": "Nova Bus",
+            "model": "LFS Artic",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 1051,
+                        "end_number": 1070,
+                        "use_numeric_sorting": true
+                    },
+                    "years": [2010],
+                    "engine": "Cummins ISL9",
+                    "transmission": "ZF Friedrichshafen 6AP1700B",
+                    "notes": "Tous en livrée spéciale RTC Métrobus. Les autobus sont équipés de supports à vélos en été."
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 1151,
+                        "end_number": 1172,
+                        "use_numeric_sorting": true
+                    },
+                    "years": [2010],
+                    "engine": "Cummins ISL9",
+                    "transmission": "ZF Friedrichshafen 6AP1700B",
+                    "notes": "Tous en livrée spéciale RTC Métrobus. Livrés en décembre 2010. 1154 et 1168 sont retirés."
                 }
             ]
         }
