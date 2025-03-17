@@ -79,6 +79,27 @@
                     "engine": "Cummins ISL9",
                     "transmission": "ZF 6AP1400B",
                     "years": [2010]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 31001,
+                        "end_number": 31237,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISL9",
+                    "transmission": "ZF 6AP1400B",
+                    "years": [2010,2011],
+                    "notes": "Les bus 31-001 à 31-008 et 31-211 à 31-220 sont équipés de porte-bagages."
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 32001,
+                        "end_number": 32032,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISL9",
+                    "transmission": "ZF 6AP1400B",
+                    "years": [2011,2012]
                 }
             ]
         }
