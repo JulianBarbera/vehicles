@@ -11,6 +11,26 @@
                         "use_numeric_sorting": true
                     },
                     "years": [2024]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 2001,
+                        "end_number": 2060,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISB6.7",
+                    "transmission": "BAE HybriDrive HDS200",
+                    "years": [2020]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 2101,
+                        "end_number": 2190,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISB6.7",
+                    "transmission": "BAE HybriDrive HDS200",
+                    "years": [2020,2021]
                 }
             ]
         },
