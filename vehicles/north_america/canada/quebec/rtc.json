@@ -82,6 +82,16 @@
                     },
                     "years": [2022],
                     "notes": "One articulated hybrid unit #2251"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number":1651,
+                        "end_number": 1673,
+                        "use_numeric_sorting": true
+                    },
+                    "transmission": "BAE HybriDrive HDS300",
+                    "engine":"Cummins ISL9",
+                    "years": [2016]
                 }
             ]
         }
