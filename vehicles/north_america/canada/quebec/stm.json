@@ -6,6 +6,19 @@
             "roster": [
                 {
                     "fleet_selection": {
+                        "start_number":36001,
+                        "end_number": 36027,
+                        "start_text": "36-001",
+                        "end_text": "36-027",
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins B6.7",
+                    "transmission": "BAE HybriDrive HDS200",
+                    "notes": "Premiers nouveaux bus hybrides depuis 2008 et premiers bus de 4e génération pour la STM.\n20 seront climatisés, 7 ne le seront pas.\nLes bus 36-018 et suivants sont équipés de fenêtres sans cadre.",
+                    "years": [2016]
+                },
+                {
+                    "fleet_selection": {
                         "start_number":40001,
                         "end_number": 40251,
                         "start_text": "40-001",
