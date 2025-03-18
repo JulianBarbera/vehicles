@@ -1,60 +1,863 @@
 {
     "vehicles": [
-        {
-            "manufacturer": "New Flyer",
-            "model": "XDE60",
-            "roster": [
-                {
-                    "fleet_selection": {
-                        "start_number": 24001,
-                        "end_number": 24016,
-                        "use_numeric_sorting": true
-                    },
-                    "engine": "Cummins L9",
-                    "transmission": "BAE HybriDrive HDS3000",
-                    "notes": "Entered service in May 2024.\n New Flyers First articulated buses in the fleet to feature American Seating InSight seats\n Fitted with ZF AxTrax AVE 130 powered centre axles",
-                    "years": [2023]
-                },
-                {
-                    "fleet_selection": {
-                        "start_number": 23001,
-                        "end_number": 23015,
-                        "use_numeric_sorting": true
-                    },
-                    "engine": "Cummins L9",
-                    "transmission": "BAE HybriDrive HDS3000",
-                    "notes": "Entered service in December 2023",
-                    "years": [2023]
-                },
-                {
-                    "fleet_selection": {
-                        "start_number": 21001,
-                        "end_number": 21025,
-                        "use_numeric_sorting": true
-                    },
-                    "engine": "Cummins L9",
-                    "transmission": "BAE HybriDrive HDS3000",
-                    "notes": "Entered service in March 2022.\nOrder for 55 units postponed due to the 2021 Global Shipping and Logistics shortage, revised to 25 units",
-                    "years": [2021]
-                }
-            ]
-        },
-        {
-            "manufacturer": "Nova Bus",
-            "model": "LFS Natural Gas",
-            "roster": [
-                {
-                    "fleet_selection": {
-                        "start_number": 24101,
-                        "end_number": 24150,
-                        "use_numeric_sorting": true
-                    },
-                    "engine": "Cummins Westport L9N",
-                    "transmission": "ZF EcoLife 6AP1420B",
-                    "notes": "Entered service in August 2024",
-                    "years": [2023]
-                }
-            ]
-        }
+      {
+        "manufacturer": "New Flyer Industries",
+        "model": "C40LFR",
+        "roster": [
+          {
+            "fleet_selection": {
+              "start_number": 3309,
+              "end_number": 3358,
+              "start_text": null,
+              "end_text": null,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins Westport C Gas Plus",
+            "transmission": "Allison B400R",
+            "notes": "*3312, 3348, & 3356 received Cummins Westport ISL G engine swaps.\n*35 active units",
+            "years": [
+              2006
+            ],
+            "division": null
+          }
+        ]
+      },
+      {
+        "manufacturer": "New Flyer Industries",
+        "model": "D40LFR",
+        "roster": [
+          {
+            "fleet_selection": {
+              "start_number": 7447,
+              "end_number": 7499,
+              "start_text": null,
+              "end_text": null,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins ISL",
+            "transmission": "Allison B400R6",
+            "notes": "*54 active units",
+            "years": [
+              2006
+            ],
+            "division": null
+          },
+          {
+            "fleet_selection": {
+              "start_number": 7501,
+              "end_number": 7504,
+              "start_text": null,
+              "end_text": null,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins ISL",
+            "transmission": "Allison B400R6",
+            "notes": "*54 active units",
+            "years": [
+              2006
+            ],
+            "division": null
+          }
+        ]
+      },
+      {
+        "manufacturer": "New Flyer Industries",
+        "model": "DE60LFR",
+        "roster": [
+          {
+            "fleet_selection": {
+              "start_number": 8118,
+              "end_number": 8156,
+              "start_text": null,
+              "end_text": null,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins ISL",
+            "transmission": "Allison E<sup>P</sup>50",
+            "notes": "* Entered service in July 2009.\n*2008 models",
+            "years": [
+              2008,
+              2009
+            ],
+            "division": null
+          }
+        ]
+      },
+      {
+        "manufacturer": "Orion Bus Industries",
+        "model": "Orion V",
+        "roster": [
+          {
+            "fleet_selection": {
+              "start_number": 9277,
+              "end_number": 9285,
+              "start_text": null,
+              "end_text": null,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins ISL",
+            "transmission": "ZF 6HP592C",
+            "notes": "*Suburban configuration",
+            "years": [
+              2007,
+              2008
+            ],
+            "division": null
+          }
+        ]
+      },
+      {
+        "manufacturer": "Nova Bus",
+        "model": "LFS HEV",
+        "roster": [
+          {
+            "fleet_selection": {
+              "start_number": 9401,
+              "end_number": 9499,
+              "start_text": null,
+              "end_text": null,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins ISB",
+            "transmission": "Allison E<sup>P</sup>40",
+            "notes": "* Entered service in October 2009.\n* 127 active units\n*12 units retained as training buses in non-revenue service",
+            "years": [
+              2009
+            ],
+            "division": null
+          },
+          {
+            "fleet_selection": {
+              "start_number": 9501,
+              "end_number": 9542,
+              "start_text": null,
+              "end_text": null,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins ISB",
+            "transmission": "Allison E<sup>P</sup>40",
+            "notes": "* Entered service in October 2009.\n* 127 active units\n*12 units retained as training buses in non-revenue service",
+            "years": [
+              2009
+            ],
+            "division": null
+          }
+        ]
+      },
+      {
+        "manufacturer": "Nova Bus",
+        "model": "LFS",
+        "roster": [
+          {
+            "fleet_selection": {
+              "start_number": 9543,
+              "end_number": 9581,
+              "start_text": null,
+              "end_text": null,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins ISL",
+            "transmission": "ZF 6HP554C",
+            "notes": "* Entered service in December 2009.\n*9582 was skipped",
+            "years": [
+              2009
+            ],
+            "division": null
+          },
+          {
+            "fleet_selection": {
+              "start_number": 9583,
+              "end_number": 9590,
+              "start_text": null,
+              "end_text": null,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins ISL",
+            "transmission": "ZF 6HP554C",
+            "notes": "* Entered service in December 2009.\n*9582 was skipped",
+            "years": [
+              2009
+            ],
+            "division": null
+          },
+          {
+            "fleet_selection": {
+              "start_number": 9605,
+              "end_number": 9699,
+              "start_text": null,
+              "end_text": null,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins ISL",
+            "transmission": "ZF 6HP554C",
+            "notes": "*9601–9604 transferred to [[West Vancouver Municipal Transit|WVMT]] as [[West Vancouver Municipal Transit 701-706|703–706]].",
+            "years": [
+              2007
+            ],
+            "division": null
+          },
+          {
+            "fleet_selection": {
+              "start_number": 9701,
+              "end_number": 9725,
+              "start_text": null,
+              "end_text": null,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins ISL",
+            "transmission": "ZF 6HP554C",
+            "notes": "*9601–9604 transferred to [[West Vancouver Municipal Transit|WVMT]] as [[West Vancouver Municipal Transit 701-706|703–706]].",
+            "years": [
+              2007
+            ],
+            "division": null
+          },
+          {
+            "fleet_selection": {
+              "start_number": 9726,
+              "end_number": 9791,
+              "start_text": null,
+              "end_text": null,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins ISL",
+            "transmission": "ZF 6HP554C",
+            "notes": null,
+            "years": [
+              2008
+            ],
+            "division": null
+          },
+          {
+            "fleet_selection": {
+              "start_number": 9797,
+              "end_number": 9799,
+              "start_text": null,
+              "end_text": null,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins ISL",
+            "transmission": "ZF 6HP554C",
+            "notes": "*9797–9799 are former [[West Vancouver Municipal Transit 801-803|West Vancouver units]], transferred in September 2018.",
+            "years": [
+              2008
+            ],
+            "division": null
+          }
+        ]
+      },
+      {
+        "manufacturer": "New Flyer Industries",
+        "model": "XDE60",
+        "roster": [
+          {
+            "fleet_selection": {
+              "start_number": 12001,
+              "end_number": 12025,
+              "start_text": null,
+              "end_text": null,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins ISL9",
+            "transmission": "Allison H 50 EP",
+            "notes": "*Entered service in April 2013.",
+            "years": [
+              2012,
+              2013
+            ],
+            "division": null
+          },
+          {
+            "fleet_selection": {
+              "start_number": 15001,
+              "end_number": 15021,
+              "start_text": null,
+              "end_text": null,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins ISL9",
+            "transmission": "Allison H 50 EP",
+            "notes": "* Entered service in February 2015.\n* First 11 units purchased new for the [[Coast Mountain Bus Company route 96 'Guildford / Newton Exchange (B-line)'|96 B-Line]].",
+            "years": [
+              2015,
+              2016
+            ],
+            "division": null
+          },
+          {
+            "fleet_selection": {
+              "start_number": 16201,
+              "end_number": 16226,
+              "start_text": null,
+              "end_text": null,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins ISL9",
+            "transmission": "Allison H 50 EP",
+            "notes": "* Entered service in April 2017.",
+            "years": [
+              2016,
+              2017
+            ],
+            "division": null
+          },
+          {
+            "fleet_selection": {
+              "start_number": 18001,
+              "end_number": 18063,
+              "start_text": null,
+              "end_text": null,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins L9",
+            "transmission": "BAE HybriDrive HDS300",
+            "notes": "*2019 models\n* RapidBus units\n*First units to be delivered in the RapidBus livery\n*Initial order of 52 units, additional 11 units converted from diesel order in June 2017 <ref>[https://www.newflyer.com/2018/06/translink-meets-increased-demand-for-sustainable-transportation-in-bc-with-new-flyer/ TransLink meets increased demand for sustainable transportation in BC with New Flyer], newflyer.com, retrieved 04-06-2018</ref><ref>[http://www.translink.ca/-/media/Documents/about_translink/governance_and_board/board_minutes_and_reports/2017/Dec/20171214_open_board_meeting_report.pdf December 14 2017 Open Board Meeting Report (Page 8)], translink.ca, retrieved 09-12-2017</ref>\n*Entered service in January 2019.",
+            "years": [
+              2018,
+              2019
+            ],
+            "division": null
+          },
+          {
+            "fleet_selection": {
+              "start_number": 19001,
+              "end_number": 19047,
+              "start_text": null,
+              "end_text": null,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins L9",
+            "transmission": "BAE HybriDrive HDS300",
+            "notes": "*Entered service in June 2019.\n* RapidBus units",
+            "years": [
+              2019
+            ],
+            "division": null
+          },
+          {
+            "fleet_selection": {
+              "start_number": 21001,
+              "end_number": 21025,
+              "start_text": null,
+              "end_text": null,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins L9",
+            "transmission": "BAE HybriDrive\nHDS300",
+            "notes": "*Entered service in March 2022.\n*Order for 55 units postponed due to the 2021 Global Shipping and Logistics shortage, revised to 25 units",
+            "years": [
+              2021
+            ],
+            "division": null
+          },
+          {
+            "fleet_selection": {
+              "start_number": 22001,
+              "end_number": 22015,
+              "start_text": null,
+              "end_text": null,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins L9",
+            "transmission": "BAE HybriDrive\nHDS300",
+            "notes": "*Entered service in November 2023.\n* Ordered to expand RapidBus Fleet in anticipation of R6 Scott Road RapidBus\n* Five buses in standard livery, ten buses in RapidBus livery\n* First to be delivered with Sportworks Apex 2 bike racks",
+            "years": [
+              2022,
+              2023
+            ],
+            "division": null
+          },
+          {
+            "fleet_selection": {
+              "start_number": 23001,
+              "end_number": 23015,
+              "start_text": null,
+              "end_text": null,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins L9",
+            "transmission": "BAE HybriDrive\nHDS300",
+            "notes": "*Entered service in December 2023.<ref>[https://www.translink.ca/-/media/translink/documents/about-translink/governance-and-board/board-of-directors/board-minutes-and-reports/2022/december/22_12_01_public_board_meeting_agenda.pdf TransLink Board Meeting Minutes December 1, 2022], translink.ca, retrieved 05-20-2023</ref>",
+            "years": [
+              2023
+            ],
+            "division": null
+          },
+          {
+            "fleet_selection": {
+              "start_number": 24001,
+              "end_number": 24016,
+              "start_text": null,
+              "end_text": null,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins L9",
+            "transmission": "BAE HybriDrive\nHDS300",
+            "notes": "*Entered service in May 2024.\n* First articulated buses in the fleet to feature [[American Seating]] [[American Seating InSight|InSight]] seats\n* Fitted with [[ZF Friedrichshafen|ZF]] [[ZF AVE 130|AxTrax AVE 130]] powered centre axles",
+            "years": [
+              2023,
+              2024
+            ],
+            "division": null
+          }
+        ]
+      },
+      {
+        "manufacturer": "New Flyer Industries",
+        "model": "XN40",
+        "roster": [
+          {
+            "fleet_selection": {
+              "start_number": 14001,
+              "end_number": 14045,
+              "start_text": null,
+              "end_text": null,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins Westport ISL G",
+            "transmission": "ZF EcoLife 6AP1400B",
+            "notes": "* Entered service in November 2014.",
+            "years": [
+              2014
+            ],
+            "division": null
+          },
+          {
+            "fleet_selection": {
+              "start_number": 16001,
+              "end_number": 16051,
+              "start_text": null,
+              "end_text": null,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins Westport ISL G",
+            "transmission": "ZF EcoLife 6AP1400B",
+            "notes": "*Entered service in November 2016.",
+            "years": [
+              2016,
+              2017
+            ],
+            "division": null
+          },
+          {
+            "fleet_selection": {
+              "start_number": 18101,
+              "end_number": 18206,
+              "start_text": null,
+              "end_text": null,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins Westport L9N",
+            "transmission": "ZF EcoLife 6AP1400B",
+            "notes": "*Entered service in May 2018.",
+            "years": [
+              2018
+            ],
+            "division": null
+          },
+          {
+            "fleet_selection": {
+              "start_number": 19101,
+              "end_number": 19147,
+              "start_text": null,
+              "end_text": null,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins Westport L9N",
+            "transmission": "ZF EcoLife 6AP1400B",
+            "notes": "*Entered service in September 2019.\n*Units deferred to 2019 to accelerate delivery of XDE60s.<ref>[https://www.translink.ca/-/media/Documents/about_translink/governance_and_board/board_minutes_and_reports/2019/march/2019_22_03_Open_Board_Meeting_Report.pdf March 22, 2019 Board Meeting Report p.142], translink.ca, retrieved 26-03-2019</ref>",
+            "years": [
+              2019
+            ],
+            "division": null
+          }
+        ]
+      },
+      {
+        "manufacturer": "New Flyer Industries",
+        "model": "XD40",
+        "roster": [
+          {
+            "fleet_selection": {
+              "start_number": 16101,
+              "end_number": 16130,
+              "start_text": null,
+              "end_text": null,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins ISL9",
+            "transmission": "ZF EcoLife 6AP1400B",
+            "notes": "* Entered service in July 2016.\n*16131–16136, 16138–16140 transferred non-sequentially to [[West Vancouver Municipal Transit|WVMT]] as [[West Vancouver Municipal Transit 1606–1614|1606–1614]].",
+            "years": [
+              2016
+            ],
+            "division": null
+          },
+          {
+            "fleet_selection": {
+              "start_number": 16137,
+              "end_number": 16137,
+              "start_text": null,
+              "end_text": null,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins ISL9",
+            "transmission": "ZF EcoLife 6AP1400B",
+            "notes": "* Entered service in July 2016.\n*16131–16136, 16138–16140 transferred non-sequentially to [[West Vancouver Municipal Transit|WVMT]] as [[West Vancouver Municipal Transit 1606–1614|1606–1614]].",
+            "years": [
+              2016
+            ],
+            "division": null
+          }
+        ]
+      },
+      {
+        "manufacturer": "Nova Bus",
+        "model": "LFS HEV",
+        "roster": [
+          {
+            "fleet_selection": {
+              "start_number": 18301,
+              "end_number": 18404,
+              "start_text": null,
+              "end_text": null,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins B6.7",
+            "transmission": "BAE HybriDrive HDS200",
+            "notes": "*Initial order of 94 units, additional 10 units converted from diesel order in June 2017.\n*Entered service in November 2018.",
+            "years": [
+              2018
+            ],
+            "division": null
+          }
+        ]
+      },
+      {
+        "manufacturer": "Nova Bus",
+        "model": "LFS Suburban",
+        "roster": [
+          {
+            "fleet_selection": {
+              "start_number": 18451,
+              "end_number": 18473,
+              "start_text": null,
+              "end_text": null,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins L9",
+            "transmission": "ZF EcoLife 6AP1400B",
+            "notes": "*Entered service in December 2018.\n*First units delivered in new standard livery.",
+            "years": [
+              2018
+            ],
+            "division": null
+          }
+        ]
+      },
+      {
+        "manufacturer": "Nova Bus",
+        "model": "LFSe",
+        "roster": [
+          {
+            "fleet_selection": {
+              "start_number": 19301,
+              "end_number": 19302,
+              "start_text": null,
+              "end_text": null,
+              "use_numeric_sorting": true
+            },
+            "engine": "TM4 SUMO HD",
+            "transmission": "Direct drive",
+            "notes": "*Entered service in September 2019.\n* $7 million funding for a trial of 4 electric buses.<ref>[https://www.translink.ca/-/media/Documents/about_translink/governance_and_board/board_minutes_and_reports/2017/June/20170623---Open-Board-Meeting-Presentation.pdf TransLink Open Board Meeting, June 23, 2017]. Dated June 23, 2017, retrieved on August 18, 2017.</ref><ref>[http://www.masstransitmag.com/article/12353530/canada-sets-the-course-with-zero-emission-bus-demonstration-trial?utm_source=MASS+NewsViews+Newsletter&utm_medium=email&utm_campaign=MASS170810003&rdx.ident%5Bpull%5D=omeda%7C5002E1561089F2Y Canada Sets the Course with Zero Emission Demonstration Trial], masstransitmag.com, retrieved 18-08-2017</ref>\n* Operate on [[Coast Mountain Bus Company route 100 '22nd St Stn / Marpole Loop'|route 100]] and based out of [[Coast Mountain Bus Company Hamilton Transit Centre|Hamilton Transit Centre]]<ref>[http://buzzer.translink.ca/2018/04/translink-leads-the-charge-launching-new-electric-bus-trial/ TransLink leads the charge launching new electric-battery bus trial], translink.ca, retrieved 12-04-2018</ref><ref>[http://dailyhive.com/vancouver/translink-electric-bus-trial-2018 TransLink announces launch of new electric bus trial], dailyhive.com, retrieved 12-04-2018</ref>\n* Part of the [[Pan-Canadian Electric-Bus Demonstration and Integration Trial]].",
+            "years": [
+              2019
+            ],
+            "division": null
+          }
+        ]
+      },
+      {
+        "manufacturer": "New Flyer Industries",
+        "model": "XE40",
+        "roster": [
+          {
+            "fleet_selection": {
+              "start_number": 19303,
+              "end_number": 19304,
+              "start_text": null,
+              "end_text": null,
+              "use_numeric_sorting": true
+            },
+            "engine": "Siemens ELFA2",
+            "transmission": "Direct drive",
+            "notes": "*Entered service in September 2019.\n* $7 million funding for a trial of 4 electric buses.<ref>[https://www.translink.ca/-/media/Documents/about_translink/governance_and_board/board_minutes_and_reports/2017/June/20170623---Open-Board-Meeting-Presentation.pdf TransLink Open Board Meeting, June 23, 2017]. Dated June 23, 2017, retrieved on August 18, 2017.</ref><ref>[http://www.masstransitmag.com/article/12353530/canada-sets-the-course-with-zero-emission-bus-demonstration-trial?utm_source=MASS+NewsViews+Newsletter&utm_medium=email&utm_campaign=MASS170810003&rdx.ident%5Bpull%5D=omeda%7C5002E1561089F2Y Canada Sets the Course with Zero Emission Demonstration Trial], masstransitmag.com, retrieved 18-08-2017</ref>\n* Operate on [[Coast Mountain Bus Company route 100 '22nd St Stn / Marpole Loop'|route 100]] and based out of [[Coast Mountain Bus Company Hamilton Transit Centre|Hamilton Transit Centre]]<ref>[http://buzzer.translink.ca/2018/04/translink-leads-the-charge-launching-new-electric-bus-trial/ TransLink leads the charge launching new electric-battery bus trial], translink.ca, retrieved 12-04-2018</ref><ref>[http://dailyhive.com/vancouver/translink-electric-bus-trial-2018 TransLink announces launch of new electric bus trial], dailyhive.com, retrieved 12-04-2018</ref>\n* Part of the [[Pan-Canadian Electric-Bus Demonstration and Integration Trial]].",
+            "years": [
+              2019
+            ],
+            "division": null
+          }
+        ]
+      },
+      {
+        "manufacturer": "Alexander Dennis",
+        "model": "Enviro500",
+        "roster": [
+          {
+            "fleet_selection": {
+              "start_number": 19401,
+              "end_number": 19432,
+              "start_text": null,
+              "end_text": null,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins L9",
+            "transmission": "ZF EcoLife 6AP1700B",
+            "notes": "* Entered service in October 2019.\n*27 units replaced aging [[Orion]] [[Orion V|V]] units, 5 units for expansion.<ref>https://globalnews.ca/news/4113749/translink-gives-double-decker-buses-the-green-light/amp/</ref><ref>[https://globalnews.ca/news/3971243/translink-double-decker-buses-vancouver Fleet of 32 double-decker buses for Vancouver], globalnews.ca, retrieved 17-01-2018</ref>\n*First units equipped with USB charging ports and Luminator Titan destination signs.<ref>[https://dailyhive.com/vancouver/translink-bus-seabus-plug-in-usb-chargers TransLink rolling out plug-in USB chargers for new buses and SeaBus], dailyhive.com, retrieved 20-06-2019</ref>\n*Gradually rolled out on routes 301 and 620 from October 2019; route 555 in January 2020; route 311 in August 2020; route 351 in September 2020; and route 340 in September 2021.",
+            "years": [
+              2019
+            ],
+            "division": null
+          },
+          {
+            "fleet_selection": {
+              "start_number": 21401,
+              "end_number": 21425,
+              "start_text": null,
+              "end_text": null,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins L9",
+            "transmission": "ZF EcoLife 6AP1700B",
+            "notes": "*Entered service in September 2022.<ref>https://www.translink.ca/About-Us/Media/2019/August/Double-decker-buses-rolling-into-service-this-October.aspx</ref>\n*Initially postponed from 2020 to Q2 2021 due to the COVID-19 Pandemic.<ref>[https://www.translink.ca/-/media/Documents/about_translink/governance_and_board/board_minutes_and_reports/2020/june/200618_Public_Board_Agenda_Package.pdf June 18 2020 Board Meeting Agenda], translink.ca, retrieved 06-15-2020</ref>\n*Order delayed due to the 2021 Global Shipping and Logistics shortage.",
+            "years": [
+              2021
+            ],
+            "division": null
+          }
+        ]
+      },
+      {
+        "manufacturer": "Nova Bus",
+        "model": "LFS Natural Gas",
+        "roster": [
+          {
+            "fleet_selection": {
+              "start_number": 24101,
+              "end_number": 24150,
+              "start_text": null,
+              "end_text": null,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins Westport L9N",
+            "transmission": "ZF EcoLife 6AP1420B",
+            "notes": "*Entered service in August 2024.<ref name=\"Low Carbon Fleet Program (LCFP) Overview\">[http://www.metrovancouver.org/boards/IntergovernmentFinance/FIC_2021-Nov-10_PPT.pdf Low Carbon Fleet Program (LCFP) Overview], metrovancouver.org, published November 10, 2021</ref>",
+            "years": [
+              2023,
+              2024
+            ],
+            "division": null
+          }
+        ]
+      },
+      {
+        "manufacturer": "Nova Bus",
+        "model": "LFSe+",
+        "roster": [
+          {
+            "fleet_selection": {
+              "start_number": 23201,
+              "end_number": 23215,
+              "start_text": null,
+              "end_text": null,
+              "use_numeric_sorting": true
+            },
+            "engine": "BAE HDS200 Series-EV",
+            "transmission": "Direct drive",
+            "notes": "*Pilot bus entered service in February 2023, production units entered service in August 2024.<ref>https://novabus.com/translink-selects-nova-bus-15-electric-buses-lfse-expanding-low-emission-mobility-vancouver-communities/</ref>\n*Part of the [[Pan-Canadian Electric-Bus Demonstration and Integration Trial]]",
+            "years": [
+              2021,
+              2023
+            ],
+            "division": null
+          }
+        ]
+      },
+      {
+        "manufacturer": "Nova Bus",
+        "model": "LFS",
+        "roster": [
+          {
+            "fleet_selection": {
+              "start_number": 701,
+              "end_number": 706,
+              "start_text": null,
+              "end_text": null,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins ISL",
+            "transmission": "ZF Ecomat 4",
+            "notes": "703–706 are ex-CMBC 9601–9604.",
+            "years": [
+              2007
+            ],
+            "division": null
+          },
+          {
+            "fleet_selection": {
+              "start_number": 901,
+              "end_number": 909,
+              "start_text": null,
+              "end_text": null,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins ISL",
+            "transmission": "ZF Ecomat 4",
+            "notes": null,
+            "years": [
+              2009
+            ],
+            "division": null
+          }
+        ]
+      },
+      {
+        "manufacturer": "New Flyer Industries",
+        "model": "XD40",
+        "roster": [
+          {
+            "fleet_selection": {
+              "start_number": 1201,
+              "end_number": 1217,
+              "start_text": null,
+              "end_text": null,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins ISL9",
+            "transmission": "ZF EcoLife",
+            "notes": null,
+            "years": [
+              2012
+            ],
+            "division": null
+          },
+          {
+            "fleet_selection": {
+              "start_number": 1601,
+              "end_number": 1605,
+              "start_text": null,
+              "end_text": null,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins ISL9",
+            "transmission": "ZF EcoLife",
+            "notes": null,
+            "years": [
+              2016
+            ],
+            "division": null
+          },
+          {
+            "fleet_selection": {
+              "start_number": 1606,
+              "end_number": 1614,
+              "start_text": null,
+              "end_text": null,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins ISL9",
+            "transmission": "ZF EcoLife",
+            "notes": "Ex-CMBC 16131–16136, 16138–16140.",
+            "years": [
+              2016
+            ],
+            "division": null
+          }
+        ]
+      },
+      {
+        "manufacturer": "Chevrolet",
+        "model": "4500",
+        "roster": [
+          {
+            "fleet_selection": {
+              "start_number": 19501,
+              "end_number": 19502,
+              "start_text": null,
+              "end_text": null,
+              "use_numeric_sorting": true
+            },
+            "engine": "GMC Vortec 6.0L",
+            "transmission": "GM 6L90-E",
+            "notes": "*First WVMT units with new corporate livery design\n*Remainder of set is operated by CMBC",
+            "years": [
+              2019,
+              2020
+            ],
+            "division": null
+          },
+          {
+            "fleet_selection": {
+              "start_number": 24501,
+              "end_number": 24505,
+              "start_text": null,
+              "end_text": null,
+              "use_numeric_sorting": true
+            },
+            "engine": "GMC Vortec 6.0L",
+            "transmission": "GM 6L90-E",
+            "notes": null,
+            "years": [
+              2024
+            ],
+            "division": null
+          }
+        ]
+      },
+      {
+        "manufacturer": "ARBOC Specialty Vehicles",
+        "model": "SOM 28",
+        "roster": [
+          {
+            "fleet_selection": {
+              "start_number": 19536,
+              "end_number": 19537,
+              "start_text": null,
+              "end_text": null,
+              "use_numeric_sorting": true
+            },
+            "engine": "GMC Vortec 6.0L",
+            "transmission": "GM 6L90-E",
+            "notes": "*First WVMT units with new corporate livery design\n*Remainder of set is operated by CMBC",
+            "years": [
+              2019,
+              2020
+            ],
+            "division": null
+          }
+        ]
+      },
+      {
+        "manufacturer": "ARBOC Specialty Vehicles",
+        "model": "SOF 27",
+        "roster": [
+          {
+            "fleet_selection": {
+              "start_number": 24540,
+              "end_number": 24548,
+              "start_text": null,
+              "end_text": null,
+              "use_numeric_sorting": true
+            },
+            "engine": "GMC Vortec 6.0L",
+            "transmission": "GM 6L90-E",
+            "notes": null,
+            "years": [
+              2024
+            ],
+            "division": null
+          }
+        ]
+      }
     ]
-}
+  }
