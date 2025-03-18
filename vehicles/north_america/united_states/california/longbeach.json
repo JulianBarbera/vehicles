@@ -1,0 +1,285 @@
+{
+    "vehicles": [
+      {
+        "manufacturer": "Gillig",
+        "model": "BRT CNG 40' (G27D102N4)",
+        "roster": [
+          {
+            "fleet_selection": {
+              "start_number": 1201,
+              "end_number": 1201,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins Westport ISL G",
+            "transmission": "ZF 6HP594C",
+            "notes": "*First CNG-fueled Gillig BRT buses built *Pilot bus",
+            "years": [
+              2011
+            ]
+          },
+          {
+            "fleet_selection": {
+              "start_number": 1202,
+              "end_number": 1233,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins Westport ISL G",
+            "transmission": "ZF 6AP1400B",
+            "years": [
+              2012
+            ]
+          },
+          {
+            "fleet_selection": {
+              "start_number": 1301,
+              "end_number": 1331,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins Westport ISL G",
+            "transmission": "ZF 6AP1400B",
+            "years": [
+              2012
+            ]
+          },
+          {
+            "fleet_selection": {
+              "start_number": 1521,
+              "end_number": 1528,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins Westport ISL G",
+            "transmission": "ZF 6AP1400B",
+            "years": [
+              2015
+            ]
+          }
+        ]
+      },
+      {
+        "manufacturer": "NFI",
+        "model": "XN60",
+        "roster": [
+          {
+            "fleet_selection": {
+              "start_number": 1501,
+              "end_number": 1513,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins Westport ISL G",
+            "transmission": "ZF 6AP1700B",
+            "notes": "2014 models.",
+            "years": [
+              2015
+            ]
+          }
+        ]
+      },
+      {
+        "manufacturer": "BYD",
+        "model": "K9",
+        "roster": [
+          {
+            "fleet_selection": {
+              "start_number": 1601,
+              "end_number": 1610,
+              "use_numeric_sorting": true
+            },
+            "years": [
+              2016
+            ]
+          }
+        ]
+      },
+      {
+        "manufacturer": "NFI",
+        "model": "XN40",
+        "roster": [
+          {
+            "fleet_selection": {
+              "start_number": 1801,
+              "end_number": 1840,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins Westport ISL G NZ",
+            "transmission": "ZF 6AP1400B",
+            "notes": "*1801 is a 2017 New Flyer XN40 demo unit. *Includes options for 89 buses until 2021.",
+            "years": [
+              2017,
+              2018
+            ]
+          }
+        ]
+      },
+      {
+        "manufacturer": "Prevost",
+        "model": "H3-45",
+        "roster": [
+          {
+            "fleet_selection": {
+              "start_number": 2000,
+              "end_number": 2000,
+              "use_numeric_sorting": true
+            },
+            "engine": "Detroit Diesel Series 60",
+            "transmission": "Allison B500R",
+            "notes": "Used for charters and special events.",
+            "years": [
+              2000
+            ]
+          }
+        ]
+      },
+      {
+        "manufacturer": "NFI",
+        "model": "GE40LF",
+        "roster": [
+          {
+            "fleet_selection": {
+              "start_number": 2402,
+              "end_number": 2427,
+              "use_numeric_sorting": true
+            },
+            "engine": "Ford Triton V10",
+            "transmission": "ISE Thundervolt TB40-HG hybrid system",
+            "years": [
+              2005
+            ]
+          },
+          {
+            "fleet_selection": {
+              "start_number": 2501,
+              "end_number": 2520,
+              "use_numeric_sorting": true
+            },
+            "engine": "Ford Triton V10",
+            "transmission": "ISE Thundervolt TB40-HG hybrid system",
+            "years": [
+              2005
+            ]
+          },
+          {
+            "fleet_selection": {
+              "start_number": 2521,
+              "end_number": 2522,
+              "use_numeric_sorting": true
+            },
+            "engine": "Ford Triton V10",
+            "transmission": "ISE Thundervolt TB40-HG hybrid system",
+            "notes": "Ex-OCTA 5421-5422.",
+            "years": [
+              2005
+            ]
+          },
+          {
+            "fleet_selection": {
+              "start_number": 2701,
+              "end_number": 2715,
+              "use_numeric_sorting": true
+            },
+            "engine": "Ford Triton V10",
+            "transmission": "ISE Thundervolt TB40-HG hybrid system",
+            "years": [
+              2007
+            ]
+          }
+        ]
+      },
+      {
+        "manufacturer": "NFI",
+        "model": "GE40LFA",
+        "roster": [
+          {
+            "fleet_selection": {
+              "start_number": 2901,
+              "end_number": 2925,
+              "use_numeric_sorting": true
+            },
+            "engine": "Ford Triton V10",
+            "transmission": "ISE Thundervolt TB40-HG hybrid system",
+            "notes": "*2008 models. *The only GE40LFA buses ever built by New Flyer Industries. *First buses to feature new paint scheme",
+            "years": [
+              2008,
+              2009
+            ]
+          }
+        ]
+      },
+      {
+        "manufacturer": "BYD",
+        "model": "K9M",
+        "roster": [
+          {
+            "fleet_selection": {
+              "start_number": 16011,
+              "end_number": 16024,
+              "use_numeric_sorting": true
+            },
+            "notes": "*16011 delivered to the LBT yard on 9/8/2021 as 2101Z. It was later renumbered",
+            "years": [
+              2021
+            ]
+          }
+        ]
+      },
+      {
+        "manufacturer": "NFI",
+        "model": "XE35",
+        "roster": [
+          {
+            "fleet_selection": {
+              "start_number": 16025,
+              "end_number": 16044,
+              "use_numeric_sorting": true
+            },
+            "notes": "<ref>[http://web.archive.org/web/20211021162708/https://www.newflyer.com/2021/10/nfi-receives-order-for-20-next-generation-zero-emission-electric-new-flyer-transit-buses-from-long-beach-transit/ 2021 New Flyer order]</ref>",
+            "years": [
+              2022
+            ]
+          }
+        ]
+      },
+      {
+        "manufacturer": "BYD",
+        "model": "C10M",
+        "roster": [
+          {
+            "fleet_selection": {
+              "start_number": 16046,
+              "end_number": 16050,
+              "use_numeric_sorting": true
+            },
+            "notes": "*To be used on commuter and special services *Expected to replace #2000",
+            "years": [
+              2024
+            ]
+          }
+        ]
+      },
+      {
+        "manufacturer": "NFI",
+        "model": "XE40",
+        "roster": [
+          {
+            "fleet_selection": {
+              "start_number": 16045,
+              "end_number": 16045,
+              "use_numeric_sorting": true
+            },
+            "years": [
+              2025
+            ]
+          },
+          {
+            "fleet_selection": {
+              "start_number": 16051,
+              "end_number": 16069,
+              "use_numeric_sorting": true
+            },
+            "years": [
+              2025
+            ]
+          }
+        ]
+      }
+    ]
+  }

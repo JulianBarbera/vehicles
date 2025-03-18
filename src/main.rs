@@ -76,7 +76,7 @@ fn main() {
             }
             Err(e) => {
                 files_invalid += 1;
-                println!("Error: {:?}", e);
+                println!("Error in {}: {:?}", file_path.display(), e);
             }
         }
     }
