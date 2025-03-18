@@ -1,7 +1,7 @@
 {
     "vehicles": [
       {
-        "manufacturer": "NFI",
+        "manufacturer": "New Flyer Industries",
         "model": "C40LF",
         "roster": [
           {
@@ -15,8 +15,7 @@
             "division": "MTA Bus",
             "years": [
               2011
-            ],
-            "notes": "*Contract order of 90 buses for MTA New York City Transit and 45 buses for MTA Bus Company."
+            ]
           },
           {
             "fleet_selection": {
@@ -44,7 +43,7 @@
             "years": [
               2012
             ],
-            "notes": "*Exercised options from the contract order of buses [[Metropolitan Transportation Authority 185-319|185-319]]. *2011 models."
+            "notes": "*Exercised options from the contract order of buses [[Metropolitan Transportation Authority 185-319|185-319]].\n*2011 models."
           },
           {
             "fleet_selection": {
@@ -58,7 +57,7 @@
             "years": [
               2012
             ],
-            "notes": "*Exercised options from the contract order of buses [[Metropolitan Transportation Authority 185-319|185-319]]. *2011 models."
+            "notes": "*Exercised options from the contract order of buses [[Metropolitan Transportation Authority 185-319|185-319]].\n*2011 models."
           },
           {
             "fleet_selection": {
@@ -72,7 +71,7 @@
             "years": [
               2012
             ],
-            "notes": "*Contract order was originally awarded to [[Daimler Buses North America]] for the [[Orion International 'Orion VII'|Orion VII CNG]] buses, but was reassigned to New Flyer.<ref>[https://www.newflyer.com/2012/07/orion-assigns-fta-funded-new-york-city-transit-contract-for-74-cng-buses-to-new-flyer Orion Assigns FTA-Funded New York City Transit Contract for 74 CNG Buses to New Flyer] (Press release). ''New Flyer Industries''. Dated July 26, 2012, retrieved on August 7, 2012.</ref> *Retrofitted with on-board Wi-Fi and digital information screens between September 2017 and February 2018.<ref name=BoardJune2017>[http://web.mta.info/mta/news/books/pdf/170621_1000_Board.pdf#page=123 MTA Board Action Items - June 2017] (pg. 123), ''Metropolitan Transportation Authority''.  Retrieved on June 21, 2017.</ref>"
+            "notes": "*Contract order was originally awarded to [[Daimler Buses North America]] for the [[Orion International 'Orion VII'|Orion VII CNG]] buses, but was reassigned to New Flyer.<ref>[https://www.newflyer.com/2012/07/orion-assigns-fta-funded-new-york-city-transit-contract-for-74-cng-buses-to-new-flyer Orion Assigns FTA-Funded New York City Transit Contract for 74 CNG Buses to New Flyer] (Press release). ''New Flyer Industries''. Dated July 26, 2012, retrieved on August 7, 2012.</ref>\n*Retrofitted with on-board Wi-Fi and digital information screens between September 2017 and February 2018.<ref name=BoardJune2017>[http://web.mta.info/mta/news/books/pdf/170621_1000_Board.pdf#page=123 MTA Board Action Items - June 2017] (pg. 123), ''Metropolitan Transportation Authority''.\u00a0 Retrieved on June 21, 2017.</ref>"
           },
           {
             "fleet_selection": {
@@ -86,7 +85,7 @@
             "years": [
               2013
             ],
-            "notes": "*644-658 retrofitted with on-board Wi-Fi and digital information screens between September 2017 and February 2018.<ref name=BoardJune2017/> *644-658 are exercised options from the contract order of buses [[Metropolitan Transportation Authority 570-643|570-643]]."
+            "notes": "*644-658 retrofitted with on-board Wi-Fi and digital information screens between September 2017 and February 2018.<ref name=BoardJune2017/>\n*644-658 are exercised options from the contract order of buses [[Metropolitan Transportation Authority 570-643|570-643]].\u00a0"
           },
           {
             "fleet_selection": {
@@ -105,20 +104,33 @@
         ]
       },
       {
-        "manufacturer": "NFI",
+        "manufacturer": "New Flyer Industries",
         "model": "XN40",
         "roster": [
           {
             "fleet_selection": {
               "start_number": 673,
+              "end_number": 682,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins Westport ISL G",
+            "transmission": "ZF 6AP1400B",
+            "division": "NYCTA",
+            "years": [
+              2016
+            ],
+            "notes": "*Features include a blue/gold wave livery, on-board Wi-Fi, and USB charging ports."
+          },
+          {
+            "fleet_selection": {
+              "start_number": 683,
               "end_number": 810,
               "use_numeric_sorting": true
             },
             "engine": "Cummins Westport ISL G",
-            "transmission": "ZF EcoLife",
+            "transmission": "ZF 6AP1400B",
             "division": "NYCTA",
             "years": [
-              2016,
               2017
             ],
             "notes": "*Features include a blue/gold wave livery, on-board Wi-Fi, and USB charging ports."
@@ -126,7 +138,7 @@
         ]
       },
       {
-        "manufacturer": "NFI",
+        "manufacturer": "New Flyer Industries",
         "model": "XN60",
         "roster": [
           {
@@ -135,8 +147,22 @@
               "end_number": 1015,
               "use_numeric_sorting": true
             },
-            "engine": "Cummins L9N",
-            "transmission": "ZF EcoLife",
+            "engine": "Cummins Westport L9N",
+            "transmission": "ZF 6AP1700B",
+            "division": "NYCTA",
+            "years": [
+              2018
+            ],
+            "notes": "*Features include a blue/gold wave livery, on-board Wi-Fi, and USB charging ports."
+          },
+          {
+            "fleet_selection": {
+              "start_number": 1021,
+              "end_number": 1109,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins Westport L9N",
+            "transmission": "ZF 6AP1700B",
             "division": "NYCTA",
             "years": [
               2018
@@ -150,26 +176,12 @@
               "use_numeric_sorting": true
             },
             "engine": "Cummins Westport ISL G NZ",
-            "transmission": "ZF EcoLife",
+            "transmission": "ZF 6AP1700B",
             "division": "NYCTA",
             "years": [
               2017
             ],
-            "notes": "*Features include a blue/gold wave livery, on-board Wi-Fi, and USB charging ports. *1016 delivered in October 2017 and used as the in-service pilot bus."
-          },
-          {
-            "fleet_selection": {
-              "start_number": 1021,
-              "end_number": 1109,
-              "use_numeric_sorting": true
-            },
-            "engine": "Cummins L9N",
-            "transmission": "ZF EcoLife",
-            "division": "NYCTA",
-            "years": [
-              2018
-            ],
-            "notes": "*Features include a blue/gold wave livery, on-board Wi-Fi, and USB charging ports."
+            "notes": "*Features include a blue/gold wave livery, on-board Wi-Fi, and USB charging ports.\n*1016 delivered in October 2017 and used as the in-service pilot bus."
           }
         ]
       },
@@ -184,12 +196,12 @@
               "use_numeric_sorting": true
             },
             "engine": "Cummins ISL",
-            "transmission": "ZF Ecomat 4",
+            "transmission": "ZF 6HP604C",
             "division": "NYCTA",
             "years": [
               2009
             ],
-            "notes": "*Part of the 60-foot Bus Test and Evaluation Program. *Feature [[Nova Bus LFX|LFX]] roof fairing."
+            "notes": "*Part of the 60-foot Bus Test and Evaluation Program.\n*Feature [[Nova Bus LFX|LFX]] roof fairing."
           },
           {
             "fleet_selection": {
@@ -198,87 +210,12 @@
               "use_numeric_sorting": true
             },
             "engine": "Cummins ISL",
-            "transmission": "ZF Ecomat 4",
+            "transmission": "ZF 6HP604C",
             "division": "NYCTA",
             "years": [
               2010
             ],
-            "notes": "*Part of the 60-foot Bus Test and Evaluation Program. *Feature [[Nova Bus LFX|LFX]] roof fairing."
-          },
-          {
-            "fleet_selection": {
-              "start_number": 5252,
-              "end_number": 5363,
-              "use_numeric_sorting": true
-            },
-            "engine": "Cummins ISL9",
-            "transmission": "ZF EcoLife",
-            "division": "NYCTA",
-            "years": [
-              2013
-            ],
-            "notes": "*5253-5353 are 2012 models *5354-5363 are 2013 models. *5299 renumbered to 5252 after being involved in a fatal accident."
-          },
-          {
-            "fleet_selection": {
-              "start_number": 5439,
-              "end_number": 5530,
-              "use_numeric_sorting": true
-            },
-            "engine": "Cummins L9",
-            "transmission": "ZF EcoLife",
-            "division": "NYCTA",
-            "years": [
-              2016,
-              2017,
-              2018
-            ],
-            "notes": "*Features include a blue/gold wave livery, on-board Wi-Fi and USB charging ports."
-          },
-          {
-            "fleet_selection": {
-              "start_number": 5531,
-              "end_number": 5602,
-              "use_numeric_sorting": true
-            },
-            "engine": "Cummins L9",
-            "transmission": "ZF EcoLife",
-            "division": "NYCTA",
-            "years": [
-              2018,
-              2019
-            ],
-            "notes": "*<ref name=TransitOct2017-A/><ref name=TransitOct2017-B/> *Split award of 180 buses with [[New Flyer]], which are exercised options following the contract order of 139 New Flyer XD60s (5987-6125) and 92 Nova Bus LFS Artics (5439-5530). *Features include a blue/gold wave livery, on-board Wi-Fi, USB charging ports and digital information screens."
-          },
-          {
-            "fleet_selection": {
-              "start_number": 5770,
-              "end_number": 5857,
-              "use_numeric_sorting": true
-            },
-            "engine": "Cummins ISL9",
-            "transmission": "ZF EcoLife",
-            "division": "NYCTA",
-            "years": [
-              2011,
-              2012
-            ],
-            "notes": "*5770 is a 2012 model *5771-5857 are 2011 models."
-          },
-          {
-            "fleet_selection": {
-              "start_number": 5858,
-              "end_number": 5986,
-              "use_numeric_sorting": true
-            },
-            "engine": "Cummins ISL9",
-            "transmission": "ZF EcoLife",
-            "division": "NYCTA",
-            "years": [
-              2011,
-              2012
-            ],
-            "notes": "*5895 is a 2011 model *5858-5894, 5896-5986 are 2012 models."
+            "notes": "*Part of the 60-foot Bus Test and Evaluation Program.\n*Feature [[Nova Bus LFX|LFX]] roof fairing."
           }
         ]
       },
@@ -301,7 +238,7 @@
               2022,
               2023
             ],
-            "notes": "*1300 (1st) renumbered to 0023. Returned and replaced by 1300 (2nd) *All units in service by February 2023. *Express routes only."
+            "notes": "*1300 (1st) renumbered to 0023. Returned and replaced by 1300 (2nd)\n*1607-1629 (NYCTA) are a 23-bus option order which will go towards taking the SIM23 and 24 routes over from Academy Bus\n*All units in service by February 2023.\n*Express routes only.\n*1300-1337, 1382-1405, 1430-1472, 1492-1497, 1499, 1503-1509, 1557-1586, 1626-1629 are 2021 models\n*1338-1348, 1406-1429, 1473-1490, 1532-1534, 1545-1556, 1607-1625 are 2022 models\n*1349-1381, 1491, 1498, 1500-1502, 1510-1531, 1535-1544, 1587-1606 are 2023 models"
           },
           {
             "fleet_selection": {
@@ -318,8 +255,14 @@
               2022,
               2023
             ],
-            "notes": "*1607-1629 (NYCTA) are a 23-bus option order which will go towards taking the SIM23 and 24 routes over from Academy Bus *All units in service by February 2023. *Express routes only."
-          },
+            "notes": "*1300 (1st) renumbered to 0023. Returned and replaced by 1300 (2nd)\n*1607-1629 (NYCTA) are a 23-bus option order which will go towards taking the SIM23 and 24 routes over from Academy Bus\n*All units in service by February 2023.\n*Express routes only.\n*1300-1337, 1382-1405, 1430-1472, 1492-1497, 1499, 1503-1509, 1557-1586, 1626-1629 are 2021 models\n*1338-1348, 1406-1429, 1473-1490, 1532-1534, 1545-1556, 1607-1625 are 2022 models\n*1349-1381, 1491, 1498, 1500-1502, 1510-1531, 1535-1544, 1587-1606 are 2023 models"
+          }
+        ]
+      },
+      {
+        "manufacturer": "Prevost Car",
+        "model": "X3-45",
+        "roster": [
           {
             "fleet_selection": {
               "start_number": 1630,
@@ -331,42 +274,12 @@
               2025,
               2026
             ],
-            "notes": "*Options for up to 131 additional buses *To replace remaining 2005-2008 MCI D4500CL/D4500CT buses *1631 delivered to Zerega on November 2, 2024."
-          },
-          {
-            "fleet_selection": {
-              "start_number": 2400,
-              "end_number": 2489,
-              "use_numeric_sorting": true
-            },
-            "engine": "Volvo D13",
-            "transmission": "Allison B500",
-            "division": "NYCTA",
-            "years": [
-              2011
-            ],
-            "notes": "*2012 models. *Part of the 45-foot Bus Test and Evaluation Program. *New features include bi-parting front door, full width front destination sign, transit style driver's area, and 4ONE seats.<ref>[http://www.prevost-stuff.com/Prevost%20Press%20Release%20-%20MTA%20New%20York%20City%20Transit.pdf Prevost Awarded Contract from MTA New York City Transit for 90 Coaches], ''Prevost'', retreived on June 1, 2016.</ref> *Express routes only"
-          },
-          {
-            "fleet_selection": {
-              "start_number": 2490,
-              "end_number": 2789,
-              "use_numeric_sorting": true
-            },
-            "engine": "Volvo D13",
-            "transmission": "Allison B500",
-            "division": "NYCTA",
-            "years": [
-              2014,
-              2015,
-              2016
-            ],
-            "notes": "*Features a new rear cap design compared to [[Metropolitan Transportation Authority 2400-2489|2400-2489]]. *Express routes only"
+            "notes": "*Options for up to 131 additional buses\n*To replace remaining 2005-2008 MCI D4500CL/D4500CT buses\n*1631 delivered to Zerega on November 2, 2024."
           }
         ]
       },
       {
-        "manufacturer": "MCI",
+        "manufacturer": "Motor Coach Industries",
         "model": "D4500CT",
         "roster": [
           {
@@ -382,7 +295,7 @@
               2008,
               2009
             ],
-            "notes": "*Ex-[[New Jersey Transit]] [[New Jersey Transit 7101-7118 (2008-2009)|7101-7108, 7110-7114, 7117-7118]], purchased in 2024. *Exx-Metropolitan Transportation Authority 2251-2258, 2260-2264, 2267-2268."
+            "notes": "*Ex-[[New Jersey Transit]] [[New Jersey Transit 7101-7118 (2008-2009)|7101-7108, 7110-7114, 7117-7118]], purchased in 2024.\n*Exx-Metropolitan Transportation Authority 2251-2258, 2260-2264, 2267-2268."
           },
           {
             "fleet_selection": {
@@ -397,8 +310,14 @@
               2008,
               2009
             ],
-            "notes": "*Ex-[[New Jersey Transit]] [[New Jersey Transit 7101-7118 (2008-2009)|7101-7108, 7110-7114, 7117-7118]], purchased in 2024. *Exx-Metropolitan Transportation Authority 2251-2258, 2260-2264, 2267-2268."
-          },
+            "notes": "*Ex-[[New Jersey Transit]] [[New Jersey Transit 7101-7118 (2008-2009)|7101-7108, 7110-7114, 7117-7118]], purchased in 2024.\n*Exx-Metropolitan Transportation Authority 2251-2258, 2260-2264, 2267-2268."
+          }
+        ]
+      },
+      {
+        "manufacturer": "Motor Coach Industries",
+        "model": "D4500CT",
+        "roster": [
           {
             "fleet_selection": {
               "start_number": 2210,
@@ -411,7 +330,7 @@
             "years": [
               2008
             ],
-            "notes": "*Express routes only. *Order originally for 126 buses; later reduced to 59, out of which 18 were purchased by [[New Jersey Transit]] as [[New Jersey Transit 7101-7118 (2008-2009)|7101-7118]]."
+            "notes": "*Express routes only.\n*Order originally for 126 buses; later reduced to 59, out of which 18 were purchased by [[New Jersey Transit]] as [[New Jersey Transit 7101-7118 (2008-2009)|7101-7118]]."
           },
           {
             "fleet_selection": {
@@ -425,8 +344,14 @@
             "years": [
               2008
             ],
-            "notes": "*Express routes only. *Order originally for 126 buses; later reduced to 59, out of which 18 were purchased by [[New Jersey Transit]] as [[New Jersey Transit 7101-7118 (2008-2009)|7101-7118]]."
-          },
+            "notes": "*Express routes only.\n*Order originally for 126 buses; later reduced to 59, out of which 18 were purchased by [[New Jersey Transit]] as [[New Jersey Transit 7101-7118 (2008-2009)|7101-7118]]."
+          }
+        ]
+      },
+      {
+        "manufacturer": "Motor Coach Industries",
+        "model": "D4500CT",
+        "roster": [
           {
             "fleet_selection": {
               "start_number": 2251,
@@ -439,17 +364,99 @@
             "years": [
               2012
             ],
-            "notes": "*2013 models. *Express routes only"
+            "notes": "*2013 models.\n*Express routes only"
           }
         ]
       },
       {
-        "manufacturer": "NFI",
+        "manufacturer": "Prevost Car",
+        "model": "X3-45",
+        "roster": [
+          {
+            "fleet_selection": {
+              "start_number": 2400,
+              "end_number": 2489,
+              "use_numeric_sorting": true
+            },
+            "engine": "Volvo D13",
+            "transmission": "Allison B500",
+            "division": "NYCTA",
+            "years": [
+              2011
+            ],
+            "notes": "*2012 models.\n*Part of the 45-foot Bus Test and Evaluation Program.\n*New features include bi-parting front door, full width front destination sign, transit style driver's area, and 4ONE seats.<ref>[http://www.prevost-stuff.com/Prevost%20Press%20Release%20-%20MTA%20New%20York%20City%20Transit.pdf Prevost Awarded Contract from MTA New York City Transit for 90 Coaches], ''Prevost'', retreived on June 1, 2016.</ref>\n*Express routes only"
+          }
+        ]
+      },
+      {
+        "manufacturer": "Prevost Car",
+        "model": "X3-45",
+        "roster": [
+          {
+            "fleet_selection": {
+              "start_number": 2490,
+              "end_number": 2491,
+              "use_numeric_sorting": true
+            },
+            "engine": "Volvo D13",
+            "transmission": "Allison B500",
+            "division": "NYCTA",
+            "years": [
+              2014
+            ],
+            "notes": "*Features a new rear cap design compared to [[Metropolitan Transportation Authority 2400-2489|2400-2489]].\n*Express routes only"
+          },
+          {
+            "fleet_selection": {
+              "start_number": 2492,
+              "end_number": 2607,
+              "use_numeric_sorting": true
+            },
+            "engine": "Volvo D13",
+            "transmission": "Allison B500",
+            "division": "NYCTA",
+            "years": [
+              2015
+            ],
+            "notes": "*Features a new rear cap design compared to [[Metropolitan Transportation Authority 2400-2489|2400-2489]].\n*Express routes only"
+          },
+          {
+            "fleet_selection": {
+              "start_number": 2608,
+              "end_number": 2789,
+              "use_numeric_sorting": true
+            },
+            "engine": "Volvo D13",
+            "transmission": "Allison B500",
+            "division": "NYCTA",
+            "years": [
+              2016
+            ],
+            "notes": "*Features a new rear cap design compared to [[Metropolitan Transportation Authority 2400-2489|2400-2489]].\n*Express routes only"
+          }
+        ]
+      },
+      {
+        "manufacturer": "New Flyer Industries",
         "model": "XD60",
         "roster": [
           {
             "fleet_selection": {
               "start_number": 4710,
+              "end_number": 4754,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins ISL9",
+            "transmission": "Allison B500R",
+            "division": "NYCTA",
+            "years": [
+              2012
+            ],
+            "notes": "*Part of the 60-foot Bus Test and Evaluation Program.<ref>[http://web.mta.info/mta/news/books/archive/120625_1130_BUS.pdf#page=44 MTA Bus Company Operations Committee Meeting - June 2012] (pg. 42). ''Metropolitan Transportation Authority''.\u00a0 Dated June 2012, retrieved on July 5, 2012.</ref>\n*4710-4711 were initially numbered 1000-1001."
+          },
+          {
+            "fleet_selection": {
+              "start_number": 4755,
               "end_number": 4784,
               "use_numeric_sorting": true
             },
@@ -457,10 +464,9 @@
             "transmission": "Allison B500R",
             "division": "NYCTA",
             "years": [
-              2012,
               2013
             ],
-            "notes": "*Part of the 60-foot Bus Test and Evaluation Program.<ref>[http://web.mta.info/mta/news/books/archive/120625_1130_BUS.pdf#page=44 MTA Bus Company Operations Committee Meeting - June 2012] (pg. 42). ''Metropolitan Transportation Authority''.  Dated June 2012, retrieved on July 5, 2012.</ref> *4710-4711 were initially numbered 1000-1001."
+            "notes": "*Part of the 60-foot Bus Test and Evaluation Program.<ref>[http://web.mta.info/mta/news/books/archive/120625_1130_BUS.pdf#page=44 MTA Bus Company Operations Committee Meeting - June 2012] (pg. 42). ''Metropolitan Transportation Authority''.\u00a0 Dated June 2012, retrieved on July 5, 2012.</ref>\n*4710-4711 were initially numbered 1000-1001."
           },
           {
             "fleet_selection": {
@@ -469,29 +475,342 @@
               "use_numeric_sorting": true
             },
             "engine": "Cummins ISL9",
-            "transmission": "ZF EcoLife",
+            "transmission": "ZF 6AP1700B",
             "division": "NYCTA",
             "years": [
-              2012,
               2013
             ],
-            "notes": "*Part of the 60-foot Bus Test and Evaluation Program.<ref>[http://web.mta.info/mta/news/books/archive/120625_1130_BUS.pdf#page=44 MTA Bus Company Operations Committee Meeting - June 2012] (pg. 42). ''Metropolitan Transportation Authority''.  Dated June 2012, retrieved on July 5, 2012.</ref> *4710-4711 were initially numbered 1000-1001."
+            "notes": "*Part of the 60-foot Bus Test and Evaluation Program.<ref>[http://web.mta.info/mta/news/books/archive/120625_1130_BUS.pdf#page=44 MTA Bus Company Operations Committee Meeting - June 2012] (pg. 42). ''Metropolitan Transportation Authority''.\u00a0 Dated June 2012, retrieved on July 5, 2012.</ref>\n*4710-4711 were initially numbered 1000-1001."
+          }
+        ]
+      },
+      {
+        "manufacturer": "New Flyer Industries",
+        "model": "XD40",
+        "roster": [
+          {
+            "fleet_selection": {
+              "start_number": 4810,
+              "end_number": 4898,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins ISL9",
+            "transmission": "Allison B400R",
+            "division": "NYCTA",
+            "years": [
+              2011
+            ],
+            "notes": "*Part of the 40-foot Bus Test and Evaluation Program.\n*15 buses have electric cooling."
           },
           {
             "fleet_selection": {
+              "start_number": 4899,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins ISL9",
+            "transmission": "Allison B400R",
+            "division": "NYCTA",
+            "years": [
+              2012
+            ],
+            "notes": "*Part of the 40-foot Bus Test and Evaluation Program.\n*was originally powered by a [[Navistar International|Navistar]] [[International Truck and Engine MaxxForce 9|MaxxForce 9]] engine and has a different rear cap than all other NYC Xcelsiors.\n*15 buses have electric cooling."
+          }
+        ]
+      },
+      {
+        "manufacturer": "New Flyer Industries",
+        "model": "XE60",
+        "roster": [
+          {
+            "fleet_selection": {
+              "start_number": 4950,
+              "end_number": 4964,
+              "use_numeric_sorting": true
+            },
+            "engine": "Siemens HV 1DB2016",
+            "transmission": "Siemens 1DB2016",
+            "division": "NYCTA"
+          }
+        ]
+      },
+      {
+        "manufacturer": "New Flyer Industries",
+        "model": "XE40",
+        "roster": [
+          {
+            "fleet_selection": {
+              "start_number": 4965,
+              "end_number": 5024,
+              "use_numeric_sorting": true
+            },
+            "division": "NYCTA",
+            "years": [
+              2023,
+              2024
+            ],
+            "notes": "*Originally for 45 buses, later increased to 60 in May 2021.<ref>[http://web.archive.org/web/20210506095751/https://new.mta.info/document/35801 45-bus electric 40 ft order 2021]</ref>\n*To replace remaining 2006-2010 OBI Orion VII (NG) HEV buses\n*4965 delivered on August 21, 2023."
+          }
+        ]
+      },
+      {
+        "manufacturer": "New Flyer Industries",
+        "model": "XE40",
+        "roster": [
+          {
+            "fleet_selection": {
+              "start_number": 5030,
+              "end_number": 5216,
+              "use_numeric_sorting": true
+            },
+            "division": "NYCTA",
+            "years": [
+              2024
+            ],
+            "notes": "*Options for up to 193 additional buses\n*25 buses to MTA Bus\n*To replace all 2011 Nova LFS, New Flyer XD40, and OBI Orion VII EPA10 buses\n*5030 active"
+          },
+          {
+            "fleet_selection": {
+              "start_number": 5030,
+              "end_number": 5216,
+              "use_numeric_sorting": true
+            },
+            "division": "MTA Bus",
+            "years": [
+              2024
+            ],
+            "notes": "*Options for up to 193 additional buses\n*25 buses to MTA Bus\n*To replace all 2011 Nova LFS, New Flyer XD40, and OBI Orion VII EPA10 buses\n*5030 active"
+          }
+        ]
+      },
+      {
+        "manufacturer": "Nova Bus",
+        "model": "LFS Artic",
+        "roster": [
+          {
+            "fleet_selection": {
+              "start_number": 5252,
+              "end_number": 5353,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins ISL9",
+            "transmission": "ZF 6AP1700B",
+            "division": "NYCTA",
+            "years": [
+              2012
+            ],
+            "notes": "*5299 renumbered to 5252 after being involved in a fatal accident."
+          },
+          {
+            "fleet_selection": {
+              "start_number": 5354,
+              "end_number": 5363,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins ISL9",
+            "transmission": "ZF 6AP1700B",
+            "division": "NYCTA",
+            "years": [
+              2013
+            ],
+            "notes": "*5299 renumbered to 5252 after being involved in a fatal accident."
+          }
+        ]
+      },
+      {
+        "manufacturer": "New Flyer Industries",
+        "model": "XD60",
+        "roster": [
+          {
+            "fleet_selection": {
               "start_number": 5364,
+              "end_number": 5369,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins ISL9",
+            "transmission": "ZF 6AP1700B",
+            "division": "MTA Bus",
+            "years": [
+              2015
+            ],
+            "notes": "*First buses to receive the new blue/gold wave livery, on-board Wi-Fi, and USB charging ports.<ref>[http://www.mta.info/news-governor-cuomo-articulated-buses-buses-wi-fi-new-york-city-transit/2016/03/08/2042-new-buses 2,042 New Buses to Have Free Wi-Fi and USB Charging Ports by 2020], ''Metropolitan Transportation Authority''.\u00a0 Dated March 8, 2016, retrieved on April 20, 2016.</ref><ref>[https://www.youtube.com/watch?v=ONw4P3hB3Ng Governor Cuomo Announces Significant Upgrade to MTA Bus Fleet], ''NYGovCuomo / YouTube''.\u00a0 Dated March 8, 2016, retrieved on April 20, 2016.</ref>"
+          },
+          {
+            "fleet_selection": {
+              "start_number": 5370,
               "end_number": 5438,
               "use_numeric_sorting": true
             },
             "engine": "Cummins ISL9",
-            "transmission": "ZF EcoLife",
+            "transmission": "ZF 6AP1700B",
             "division": "MTA Bus",
             "years": [
-              2015,
               2016
             ],
-            "notes": "*First buses to receive the new blue/gold wave livery, on-board Wi-Fi, and USB charging ports.<ref>[http://www.mta.info/news-governor-cuomo-articulated-buses-buses-wi-fi-new-york-city-transit/2016/03/08/2042-new-buses 2,042 New Buses to Have Free Wi-Fi and USB Charging Ports by 2020], ''Metropolitan Transportation Authority''.  Dated March 8, 2016, retrieved on April 20, 2016.</ref><ref>[https://www.youtube.com/watch?v=ONw4P3hB3Ng Governor Cuomo Announces Significant Upgrade to MTA Bus Fleet], ''NYGovCuomo / YouTube''.  Dated March 8, 2016, retrieved on April 20, 2016.</ref>"
+            "notes": "*First buses to receive the new blue/gold wave livery, on-board Wi-Fi, and USB charging ports.<ref>[http://www.mta.info/news-governor-cuomo-articulated-buses-buses-wi-fi-new-york-city-transit/2016/03/08/2042-new-buses 2,042 New Buses to Have Free Wi-Fi and USB Charging Ports by 2020], ''Metropolitan Transportation Authority''.\u00a0 Dated March 8, 2016, retrieved on April 20, 2016.</ref><ref>[https://www.youtube.com/watch?v=ONw4P3hB3Ng Governor Cuomo Announces Significant Upgrade to MTA Bus Fleet], ''NYGovCuomo / YouTube''.\u00a0 Dated March 8, 2016, retrieved on April 20, 2016.</ref>"
+          }
+        ]
+      },
+      {
+        "manufacturer": "Nova Bus",
+        "model": "LFS Artic",
+        "roster": [
+          {
+            "fleet_selection": {
+              "start_number": 5439,
+              "end_number": 5442,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins L9",
+            "transmission": "ZF 6AP1700B",
+            "division": "NYCTA",
+            "years": [
+              2016
+            ],
+            "notes": "*Features include a blue/gold wave livery, on-board Wi-Fi and USB charging ports."
           },
+          {
+            "fleet_selection": {
+              "start_number": 5443,
+              "end_number": 5484,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins L9",
+            "transmission": "ZF 6AP1700B",
+            "division": "NYCTA",
+            "years": [
+              2017
+            ],
+            "notes": "*Features include a blue/gold wave livery, on-board Wi-Fi and USB charging ports."
+          },
+          {
+            "fleet_selection": {
+              "start_number": 5485,
+              "end_number": 5530,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins L9",
+            "transmission": "ZF 6AP1700B",
+            "division": "NYCTA",
+            "years": [
+              2018
+            ],
+            "notes": "*Features include a blue/gold wave livery, on-board Wi-Fi and USB charging ports."
+          }
+        ]
+      },
+      {
+        "manufacturer": "Nova Bus",
+        "model": "LFS Artic",
+        "roster": [
+          {
+            "fleet_selection": {
+              "start_number": 5531,
+              "end_number": 5586,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins L9",
+            "transmission": "ZF 6AP1700B",
+            "division": "NYCTA",
+            "years": [
+              2018
+            ],
+            "notes": "*<ref name=TransitOct2017-A/><ref name=TransitOct2017-B/>\n*Split award of 180 buses with [[New Flyer]], which are exercised options following the contract order of 139 New Flyer XD60s (5987-6125) and 92 Nova Bus LFS Artics (5439-5530).\n*Features include a blue/gold wave livery, on-board Wi-Fi, USB charging ports and digital information screens."
+          },
+          {
+            "fleet_selection": {
+              "start_number": 5587,
+              "end_number": 5602,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins L9",
+            "transmission": "ZF 6AP1700B",
+            "division": "NYCTA",
+            "years": [
+              2019
+            ],
+            "notes": "*<ref name=TransitOct2017-A/><ref name=TransitOct2017-B/>\n*Split award of 180 buses with [[New Flyer]], which are exercised options following the contract order of 139 New Flyer XD60s (5987-6125) and 92 Nova Bus LFS Artics (5439-5530).\n*Features include a blue/gold wave livery, on-board Wi-Fi, USB charging ports and digital information screens."
+          }
+        ]
+      },
+      {
+        "manufacturer": "Nova Bus",
+        "model": "LFS Artic",
+        "roster": [
+          {
+            "fleet_selection": {
+              "start_number": 5770,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins ISL9",
+            "transmission": "ZF 6AP1700B",
+            "division": "NYCTA",
+            "years": [
+              2012
+            ]
+          },
+          {
+            "fleet_selection": {
+              "start_number": 5771,
+              "end_number": 5857,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins ISL9",
+            "transmission": "ZF 6AP1700B",
+            "division": "NYCTA",
+            "years": [
+              2011
+            ]
+          }
+        ]
+      },
+      {
+        "manufacturer": "Nova Bus",
+        "model": "LFS Artic",
+        "roster": [
+          {
+            "fleet_selection": {
+              "start_number": 5895,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins ISL9",
+            "transmission": "ZF 6AP1700B",
+            "division": "NYCTA",
+            "years": [
+              2011
+            ]
+          },
+          {
+            "fleet_selection": {
+              "start_number": 5858,
+              "end_number": 5894,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins ISL9",
+            "transmission": "ZF 6AP1700B",
+            "division": "NYCTA",
+            "years": [
+              2012
+            ]
+          },
+          {
+            "fleet_selection": {
+              "start_number": 5896,
+              "end_number": 5986,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins ISL9",
+            "transmission": "ZF 6AP1700B",
+            "division": "NYCTA",
+            "years": [
+              2012
+            ]
+          }
+        ]
+      },
+      {
+        "manufacturer": "New Flyer Industries",
+        "model": "XD60",
+        "roster": [
           {
             "fleet_selection": {
               "start_number": 5987,
@@ -502,8 +821,7 @@
             "transmission": "Allison B500R",
             "division": "NYCTA",
             "years": [
-              2016,
-              2017
+              2016
             ],
             "notes": "*Features include a blue/gold wave livery, on-board Wi-Fi, and USB charging ports."
           },
@@ -511,13 +829,14 @@
             "fleet_selection": {
               "start_number": 6069,
               "end_number": 6091,
+              "start_text": "(Odds only)",
               "use_numeric_sorting": true
             },
             "engine": "Cummins ISL9",
             "transmission": "Allison B500R",
             "division": "NYCTA",
             "years": [
-              2017
+              2016
             ],
             "notes": "*Features include a blue/gold wave livery, on-board Wi-Fi, and USB charging ports."
           },
@@ -539,6 +858,7 @@
             "fleet_selection": {
               "start_number": 6068,
               "end_number": 6092,
+              "start_text": "(Evens only)",
               "use_numeric_sorting": true
             },
             "engine": "Cummins ISL9",
@@ -551,6 +871,40 @@
           },
           {
             "fleet_selection": {
+              "start_number": 5988,
+              "end_number": 6028,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins ISL9",
+            "transmission": "Allison B500R",
+            "division": "NYCTA",
+            "years": [
+              2017
+            ],
+            "notes": "*Features include a blue/gold wave livery, on-board Wi-Fi, and USB charging ports."
+          },
+          {
+            "fleet_selection": {
+              "start_number": 6030,
+              "end_number": 6125,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins ISL9",
+            "transmission": "Allison B500R",
+            "division": "NYCTA",
+            "years": [
+              2017
+            ],
+            "notes": "*Features include a blue/gold wave livery, on-board Wi-Fi, and USB charging ports."
+          }
+        ]
+      },
+      {
+        "manufacturer": "New Flyer Industries",
+        "model": "XD60",
+        "roster": [
+          {
+            "fleet_selection": {
               "start_number": 6126,
               "end_number": 6233,
               "use_numeric_sorting": true
@@ -559,10 +913,9 @@
             "transmission": "Allison B500R",
             "division": "NYCTA",
             "years": [
-              2019,
-              2020
+              2019
             ],
-            "notes": "*<ref name=TransitOct2017-A/><ref name=TransitOct2017-B/> *Split award of 180 buses with [[Nova Bus]], which are exercised options following the contract order of 139 New Flyer XD60s ([[Metropolitan Transportation Authority 5987-6125|5987-6125]]) and 92 Nova Bus LFS Artics ([[Metropolitan Transportation Authority 5439-5530|5439-5530]]). *Features include a blue/gold wave livery, on-board Wi-Fi, USB charging ports and digital information screens."
+            "notes": "*<ref name=TransitOct2017-A>[http://web.mta.info/mta/news/books/pdf/171023_1000_Transit.pdf#page=134 Transit & Bus Committee Meeting - October 2017] (pgs. 134-135), ''Metropolitan Transportation Authority''.\u00a0 Retrieved on October 20, 2017.</ref><ref name=TransitOct2017-B>[https://www.youtube.com/embed/nkgWl4dTcEg?start=5786&end=6921&autoplay=1 MTA Board - NYCT/Bus Committee Meeting - 10/23/2017] (video time: 1:36:26-1:55:21), ''mtainfo / YouTube''.\u00a0 Uploaded and retrieved on October 23, 2017.</ref>\n*Split award of 180 buses with [[Nova Bus]], which are exercised options following the contract order of 139 New Flyer XD60s ([[Metropolitan Transportation Authority 5987-6125|5987-6125]]) and 92 Nova Bus LFS Artics ([[Metropolitan Transportation Authority 5439-5530|5439-5530]]).\n*Features include a blue/gold wave livery, on-board Wi-Fi, USB charging ports and digital information screens.\n*6126 was delivered in 2018 as the demo bus. 6126-6237, are 2019 models, 6238-6286 are 2020 models."
           },
           {
             "fleet_selection": {
@@ -574,11 +927,16 @@
             "transmission": "Allison B500R",
             "division": "MTA Bus",
             "years": [
-              2019,
               2020
             ],
-            "notes": "*<ref name=TransitOct2017-A/><ref name=TransitOct2017-B/> *Split award of 180 buses with [[Nova Bus]], which are exercised options following the contract order of 139 New Flyer XD60s ([[Metropolitan Transportation Authority 5987-6125|5987-6125]]) and 92 Nova Bus LFS Artics ([[Metropolitan Transportation Authority 5439-5530|5439-5530]]). *Features include a blue/gold wave livery, on-board Wi-Fi, USB charging ports and digital information screens."
-          },
+            "notes": "*<ref name=TransitOct2017-A>[http://web.mta.info/mta/news/books/pdf/171023_1000_Transit.pdf#page=134 Transit & Bus Committee Meeting - October 2017] (pgs. 134-135), ''Metropolitan Transportation Authority''.\u00a0 Retrieved on October 20, 2017.</ref><ref name=TransitOct2017-B>[https://www.youtube.com/embed/nkgWl4dTcEg?start=5786&end=6921&autoplay=1 MTA Board - NYCT/Bus Committee Meeting - 10/23/2017] (video time: 1:36:26-1:55:21), ''mtainfo / YouTube''.\u00a0 Uploaded and retrieved on October 23, 2017.</ref>\n*Split award of 180 buses with [[Nova Bus]], which are exercised options following the contract order of 139 New Flyer XD60s ([[Metropolitan Transportation Authority 5987-6125|5987-6125]]) and 92 Nova Bus LFS Artics ([[Metropolitan Transportation Authority 5439-5530|5439-5530]]).\n*Features include a blue/gold wave livery, on-board Wi-Fi, USB charging ports and digital information screens.\n*6126 was delivered in 2018 as the demo bus. 6126-6237, are 2019 models, 6238-6286 are 2020 models."
+          }
+        ]
+      },
+      {
+        "manufacturer": "New Flyer Industries",
+        "model": "XD60",
+        "roster": [
           {
             "fleet_selection": {
               "start_number": 6287,
@@ -591,13 +949,13 @@
               2026,
               2027
             ],
-            "notes": "*2 options up to 446 additional buses **Option 1: 21 buses **Option 2: 425 buses *4 pilot buses to be delivered January 2025 *Base order delivery expected to run August 2025-November 2027 *To replace 2011-2013 Nova LFS-A, 2012-2013 New Flyer XD60 buses *6289 delivered to Gun Hill. VIN: 5FYD8YU0XSB111570. License plate: <sup>B</sup><sub>L</sub>3249"
+            "notes": "*2 options up to 446 additional buses\n**Option 1: 21 buses\n**Option 2: 425 buses\n*4 pilot buses to be delivered January 2025\n*Base order delivery expected to run August 2025-November 2027\n*To replace 2011-2013 Nova LFS-A, 2012-2013 New Flyer XD60 buses\n*6289 delivered to Gun Hill. VIN: 5FYD8YU0XSB111570. License plate: <sup>B</sup><sub>L</sub>3249"
           }
         ]
       },
       {
-        "manufacturer": "OBI",
-        "model": "Orion VII EPA10 (07.501)",
+        "manufacturer": "Orion International",
+        "model": "Orion VII EPA10",
         "roster": [
           {
             "fleet_selection": {
@@ -606,37 +964,61 @@
               "use_numeric_sorting": true
             },
             "engine": "Cummins ISL9",
-            "transmission": "ZF EcoLife",
+            "transmission": "ZF 6AP1400B",
             "division": "NYCTA",
             "years": [
               2011
             ],
-            "notes": "*Part of the 40-foot Bus Test and Evaluation Program. *15 buses have screw compressors and disc brakes. *7052-7089 are equipped with bike racks."
+            "notes": "*Part of the 40-foot Bus Test and Evaluation Program.\n*15 buses have screw compressors and disc brakes.\n*7052-7089 are equipped with bike racks."
           }
         ]
       },
       {
-        "manufacturer": "NFI",
+        "manufacturer": "New Flyer Industries",
         "model": "XD40",
         "roster": [
           {
             "fleet_selection": {
-              "start_number": 4810,
-              "end_number": 4899,
+              "start_number": 7090,
+              "end_number": 7109,
               "use_numeric_sorting": true
             },
             "engine": "Cummins ISL9",
             "transmission": "Allison B400R",
             "division": "NYCTA",
             "years": [
-              2011,
-              2012
-            ],
-            "notes": "*Part of the 40-foot Bus Test and Evaluation Program. *4899 is a 2012 model and was originally powered by a [[Navistar International|Navistar]] [[International Truck and Engine MaxxForce 9|MaxxForce 9]] engine and has a different rear cap than all other NYC Xcelsiors. *15 buses have electric cooling."
+              2014
+            ]
           },
           {
             "fleet_selection": {
-              "start_number": 7090,
+              "start_number": 7140,
+              "end_number": 7150,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins ISL9",
+            "transmission": "Allison B400R",
+            "division": "NYCTA",
+            "years": [
+              2014
+            ]
+          },
+          {
+            "fleet_selection": {
+              "start_number": 7110,
+              "end_number": 7139,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins ISL9",
+            "transmission": "Allison B400R",
+            "division": "NYCTA",
+            "years": [
+              2015
+            ]
+          },
+          {
+            "fleet_selection": {
+              "start_number": 7151,
               "end_number": 7437,
               "use_numeric_sorting": true
             },
@@ -644,14 +1026,12 @@
             "transmission": "Allison B400R",
             "division": "NYCTA",
             "years": [
-              2014,
               2015
             ]
           },
           {
             "fleet_selection": {
               "start_number": 7483,
-              "end_number": 7483,
               "use_numeric_sorting": true
             },
             "engine": "Cummins ISL9",
@@ -671,13 +1051,74 @@
             "transmission": "Allison B400R",
             "division": "MTA Bus",
             "years": [
-              2014,
               2015
             ]
-          },
+          }
+        ]
+      },
+      {
+        "manufacturer": "New Flyer Industries",
+        "model": "XD40",
+        "roster": [
           {
             "fleet_selection": {
               "start_number": 7484,
+              "end_number": 7486,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins L9",
+            "transmission": "Allison B400R",
+            "division": "NYCTA",
+            "years": [
+              2017
+            ],
+            "notes": "*Features include a blue/gold wave livery, on-board Wi-Fi, USB charging ports and digital information screens.\n*7484 was delivered in January 2018 and used as the in-service pilot bus.\u00a0 The production buses were delivered from 2018 to 2019.<ref name=TransitApril2017>[https://web.archive.org/web/20210829100816/http://web.mta.info/mta/news/books/archive/170424_1000_Transit.pdf Transit and Bus Committee Meeting - April 2017]</ref>"
+          },
+          {
+            "fleet_selection": {
+              "start_number": 7487,
+              "end_number": 7571,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins L9",
+            "transmission": "Allison B400R",
+            "division": "NYCTA",
+            "years": [
+              2018
+            ],
+            "notes": "*Features include a blue/gold wave livery, on-board Wi-Fi, USB charging ports and digital information screens.\n*7484 was delivered in January 2018 and used as the in-service pilot bus.\u00a0 The production buses were delivered from 2018 to 2019.<ref name=TransitApril2017>[https://web.archive.org/web/20210829100816/http://web.mta.info/mta/news/books/archive/170424_1000_Transit.pdf Transit and Bus Committee Meeting - April 2017]</ref>"
+          },
+          {
+            "fleet_selection": {
+              "start_number": 7615,
+              "end_number": 7738,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins L9",
+            "transmission": "Allison B400R",
+            "division": "NYCTA",
+            "years": [
+              2018
+            ],
+            "notes": "*Features include a blue/gold wave livery, on-board Wi-Fi, USB charging ports and digital information screens.\n*7484 was delivered in January 2018 and used as the in-service pilot bus.\u00a0 The production buses were delivered from 2018 to 2019.<ref name=TransitApril2017>[https://web.archive.org/web/20210829100816/http://web.mta.info/mta/news/books/archive/170424_1000_Transit.pdf Transit and Bus Committee Meeting - April 2017]</ref>"
+          },
+          {
+            "fleet_selection": {
+              "start_number": 7572,
+              "end_number": 7614,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins L9",
+            "transmission": "Allison B400R",
+            "division": "NYCTA",
+            "years": [
+              2019
+            ],
+            "notes": "*Features include a blue/gold wave livery, on-board Wi-Fi, USB charging ports and digital information screens.\n*7484 was delivered in January 2018 and used as the in-service pilot bus.\u00a0 The production buses were delivered from 2018 to 2019.<ref name=TransitApril2017>[https://web.archive.org/web/20210829100816/http://web.mta.info/mta/news/books/archive/170424_1000_Transit.pdf Transit and Bus Committee Meeting - April 2017]</ref>"
+          },
+          {
+            "fleet_selection": {
+              "start_number": 7739,
               "end_number": 7850,
               "use_numeric_sorting": true
             },
@@ -685,12 +1126,16 @@
             "transmission": "Allison B400R",
             "division": "NYCTA",
             "years": [
-              2017,
-              2018,
               2019
             ],
-            "notes": "*Features include a blue/gold wave livery, on-board Wi-Fi, USB charging ports and digital information screens."
-          },
+            "notes": "*Features include a blue/gold wave livery, on-board Wi-Fi, USB charging ports and digital information screens.\n*7484 was delivered in January 2018 and used as the in-service pilot bus.\u00a0 The production buses were delivered from 2018 to 2019.<ref name=TransitApril2017>[https://web.archive.org/web/20210829100816/http://web.mta.info/mta/news/books/archive/170424_1000_Transit.pdf Transit and Bus Committee Meeting - April 2017]</ref>"
+          }
+        ]
+      },
+      {
+        "manufacturer": "New Flyer Industries",
+        "model": "XD40",
+        "roster": [
           {
             "fleet_selection": {
               "start_number": 7851,
@@ -704,83 +1149,7 @@
               2021,
               2022
             ],
-            "notes": "*Exercised options from the 9510-9619 order. *7851 delivered late June 2021 with a full roofline option. **Delivery completed by May 2023."
-          },
-          {
-            "fleet_selection": {
-              "start_number": 9272,
-              "end_number": 9387,
-              "use_numeric_sorting": true
-            },
-            "engine": "Cummins L9",
-            "transmission": "Allison B400R",
-            "division": "MTA Bus",
-            "years": [
-              2024
-            ],
-            "notes": "*To replace remaining 2006-2010 OBI Orion VII (NG) HEV buses *All units in service as of July 2024."
-          }
-        ]
-      },
-      {
-        "manufacturer": "NFI",
-        "model": "XE60",
-        "roster": [
-          {
-            "fleet_selection": {
-              "start_number": 4950,
-              "end_number": 4964,
-              "use_numeric_sorting": true
-            },
-            "engine": "Siemens HV 1DB2016, ZF AVE130",
-            "transmission": "Siemens 1DB2016",
-            "division": "NYCTA",
-            "years": [
-              2019
-            ]
-          }
-        ]
-      },
-      {
-        "manufacturer": "NFI",
-        "model": "XE40",
-        "roster": [
-          {
-            "fleet_selection": {
-              "start_number": 4965,
-              "end_number": 5024,
-              "use_numeric_sorting": true
-            },
-            "division": "NYCTA",
-            "years": [
-              2023,
-              2024
-            ],
-            "notes": "*Originally for 45 buses, later increased to 60 in May 2021.<ref>[http://web.archive.org/web/20210506095751/https://new.mta.info/document/35801 45-bus electric 40 ft order 2021]</ref> *To replace remaining 2006-2010 OBI Orion VII (NG) HEV buses *4965 delivered on August 21, 2023."
-          },
-          {
-            "fleet_selection": {
-              "start_number": 5030,
-              "end_number": 5216,
-              "use_numeric_sorting": true
-            },
-            "division": "NYCTA",
-            "years": [
-              2024
-            ],
-            "notes": "*Options for up to 193 additional buses *To replace all 2011 Nova LFS, New Flyer XD40, and OBI Orion VII EPA10 buses *5030 active"
-          },
-          {
-            "fleet_selection": {
-              "start_number": 5030,
-              "end_number": 5216,
-              "use_numeric_sorting": true
-            },
-            "division": "MTA Bus",
-            "years": [
-              2024
-            ],
-            "notes": "*Options for up to 193 additional buses *25 buses to MTA Bus *To replace all 2011 Nova LFS, New Flyer XD40, and OBI Orion VII EPA10 buses *5030 active"
+            "notes": "*Exercised options from the 9510-9619 order.\n*7851 delivered late June 2021 with a full roofline option.\n**Delivery completed by May 2023."
           }
         ]
       },
@@ -800,7 +1169,7 @@
             "years": [
               2011
             ],
-            "notes": "*Part of the 40-foot Bus Test and Evaluation Program. *8000-8014 have Thermo King Athenia HVAC."
+            "notes": "*Part of the 40-foot Bus Test and Evaluation Program.\n*have Thermo King Athenia HVAC"
           },
           {
             "fleet_selection": {
@@ -809,78 +1178,369 @@
               "use_numeric_sorting": true
             },
             "engine": "Cummins ISL9",
-            "transmission": "ZF EcoLife",
+            "transmission": "ZF 6AP1400B",
             "division": "NYCTA",
             "years": [
               2011
             ],
-            "notes": "*Part of the 40-foot Bus Test and Evaluation Program. *8015-8089 have Carrier HVAC. *8075-8089 have electric engine cooling system and LED headlights."
-          },
+            "notes": "*Part of the 40-foot Bus Test and Evaluation Program.\n*have Carrier HVAC.\n*8075-8089 have electric engine cooling system and LED headlights."
+          }
+        ]
+      },
+      {
+        "manufacturer": "Nova Bus",
+        "model": "LFS",
+        "roster": [
           {
             "fleet_selection": {
               "start_number": 8090,
-              "end_number": 8503,
+              "end_number": 8153,
               "use_numeric_sorting": true
             },
             "engine": "Cummins ISL9",
-            "transmission": "ZF EcoLife",
+            "transmission": "ZF 6AP1400B",
             "division": "NYCTA",
             "years": [
-              2015,
+              2015
+            ]
+          },
+          {
+            "fleet_selection": {
+              "start_number": 8184,
+              "end_number": 8230,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins ISL9",
+            "transmission": "ZF 6AP1400B",
+            "division": "NYCTA",
+            "years": [
+              2015
+            ]
+          },
+          {
+            "fleet_selection": {
+              "start_number": 8252,
+              "end_number": 8293,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins ISL9",
+            "transmission": "ZF 6AP1400B",
+            "division": "NYCTA",
+            "years": [
+              2015
+            ]
+          },
+          {
+            "fleet_selection": {
+              "start_number": 8318,
+              "end_number": 8339,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins ISL9",
+            "transmission": "ZF 6AP1400B",
+            "division": "NYCTA",
+            "years": [
+              2015
+            ]
+          },
+          {
+            "fleet_selection": {
+              "start_number": 8359,
+              "end_number": 8373,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins ISL9",
+            "transmission": "ZF 6AP1400B",
+            "division": "NYCTA",
+            "years": [
+              2015
+            ]
+          },
+          {
+            "fleet_selection": {
+              "start_number": 8399,
+              "end_number": 8442,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins ISL9",
+            "transmission": "ZF 6AP1400B",
+            "division": "NYCTA",
+            "years": [
+              2015
+            ]
+          },
+          {
+            "fleet_selection": {
+              "start_number": 8481,
+              "end_number": 8491,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins ISL9",
+            "transmission": "ZF 6AP1400B",
+            "division": "NYCTA",
+            "years": [
+              2015
+            ]
+          },
+          {
+            "fleet_selection": {
+              "start_number": 8154,
+              "end_number": 8183,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins ISL9",
+            "transmission": "ZF 6AP1400B",
+            "division": "NYCTA",
+            "years": [
               2016
             ]
           },
           {
             "fleet_selection": {
-              "start_number": 8504,
-              "end_number": 8754,
+              "start_number": 8231,
+              "end_number": 8251,
               "use_numeric_sorting": true
             },
-            "engine": "Cummins L9",
-            "transmission": "ZF EcoLife",
+            "engine": "Cummins ISL9",
+            "transmission": "ZF 6AP1400B",
             "division": "NYCTA",
             "years": [
-              2018,
-              2019
-            ],
-            "notes": "*<ref name=TransitApril2017></ref> *Split award of 628 buses with [[New Flyer]], which are exercised options following the firm contract order of 414 Nova Bus LFSes (8090-8503) and 348 New Flyer XD40s (7090-7437). *Features include a blue/gold wave livery, on-board Wi-Fi, USB charging ports and digital information screens."
+              2016
+            ]
           },
           {
             "fleet_selection": {
-              "start_number": 8755,
-              "end_number": 8963,
+              "start_number": 8294,
+              "end_number": 8317,
               "use_numeric_sorting": true
             },
-            "engine": "Cummins L9",
-            "transmission": "ZF EcoLife",
+            "engine": "Cummins ISL9",
+            "transmission": "ZF 6AP1400B",
             "division": "NYCTA",
             "years": [
-              2020,
-              2021,
-              2022
-            ],
-            "notes": "*Begun revenue service in March 2022. *Options from the 9620-9784 order."
+              2016
+            ]
           },
           {
             "fleet_selection": {
-              "start_number": 8964,
-              "end_number": 9271,
+              "start_number": 8340,
+              "end_number": 8358,
               "use_numeric_sorting": true
             },
-            "engine": "Cummins L9",
-            "transmission": "ZF EcoLife",
-            "division": "MTA Bus",
+            "engine": "Cummins ISL9",
+            "transmission": "ZF 6AP1400B",
+            "division": "NYCTA",
             "years": [
-              2022,
-              2023,
-              2024
-            ],
-            "notes": "*<ref>[https://new.mta.info/document/68221 135-bus diesel 40 ft order 2021]</ref> *Originally for 50 buses, option for 85 exercised for 135 total. *To replace remaining 2006-2010 OBI Orion VII (NG) HEV buses"
+              2016
+            ]
+          },
+          {
+            "fleet_selection": {
+              "start_number": 8374,
+              "end_number": 8398,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins ISL9",
+            "transmission": "ZF 6AP1400B",
+            "division": "NYCTA",
+            "years": [
+              2016
+            ]
+          },
+          {
+            "fleet_selection": {
+              "start_number": 8443,
+              "end_number": 8480,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins ISL9",
+            "transmission": "ZF 6AP1400B",
+            "division": "NYCTA",
+            "years": [
+              2016
+            ]
+          },
+          {
+            "fleet_selection": {
+              "start_number": 8492,
+              "end_number": 8503,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins ISL9",
+            "transmission": "ZF 6AP1400B",
+            "division": "NYCTA",
+            "years": [
+              2016
+            ]
           }
         ]
       },
       {
-        "manufacturer": "NFI",
+        "manufacturer": "Nova Bus",
+        "model": "LFS",
+        "roster": [
+          {
+            "fleet_selection": {
+              "start_number": 8504,
+              "end_number": 8525,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins L9",
+            "transmission": "ZF 6AP1400B",
+            "division": "NYCTA",
+            "years": [
+              2018
+            ],
+            "notes": "*<ref name=TransitApril2017></ref>\n*Split award of 628 buses with [[New Flyer]], which are exercised options following the firm contract order of 414 Nova Bus LFSes (8090-8503) and 348 New Flyer XD40s (7090-7437).\n*Features include a blue/gold wave livery, on-board Wi-Fi, USB charging ports and digital information screens.\n*4 pilot buses were delivered in 2018.\u00a0 The production buses were delivered in 2019."
+          },
+          {
+            "fleet_selection": {
+              "start_number": 8740,
+              "end_number": 8754,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins L9",
+            "transmission": "ZF 6AP1400B",
+            "division": "NYCTA",
+            "years": [
+              2018
+            ],
+            "notes": "*<ref name=TransitApril2017></ref>\n*Split award of 628 buses with [[New Flyer]], which are exercised options following the firm contract order of 414 Nova Bus LFSes (8090-8503) and 348 New Flyer XD40s (7090-7437).\n*Features include a blue/gold wave livery, on-board Wi-Fi, USB charging ports and digital information screens.\n*4 pilot buses were delivered in 2018.\u00a0 The production buses were delivered in 2019."
+          },
+          {
+            "fleet_selection": {
+              "start_number": 8536,
+              "end_number": 8739,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins L9",
+            "transmission": "ZF 6AP1400B",
+            "division": "NYCTA",
+            "years": [
+              2019
+            ],
+            "notes": "*<ref name=TransitApril2017></ref>\n*Split award of 628 buses with [[New Flyer]], which are exercised options following the firm contract order of 414 Nova Bus LFSes (8090-8503) and 348 New Flyer XD40s (7090-7437).\n*Features include a blue/gold wave livery, on-board Wi-Fi, USB charging ports and digital information screens.\n*4 pilot buses were delivered in 2018.\u00a0 The production buses were delivered in 2019."
+          }
+        ]
+      },
+      {
+        "manufacturer": "Nova Bus",
+        "model": "LFS",
+        "roster": [
+          {
+            "fleet_selection": {
+              "start_number": 8755,
+              "end_number": 8758,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins L9",
+            "transmission": "ZF 6AP1400B",
+            "division": "NYCTA",
+            "years": [
+              2020
+            ],
+            "notes": "*Begun revenue service in March 2022.\n*Options from the 9620-9784 order."
+          },
+          {
+            "fleet_selection": {
+              "start_number": 8759,
+              "end_number": 8846,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins L9",
+            "transmission": "ZF 6AP1400B",
+            "division": "NYCTA",
+            "years": [
+              2021
+            ],
+            "notes": "*Begun revenue service in March 2022.\n*Options from the 9620-9784 order."
+          },
+          {
+            "fleet_selection": {
+              "start_number": 8847,
+              "end_number": 8963,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins L9",
+            "transmission": "ZF 6AP1400B",
+            "division": "NYCTA",
+            "years": [
+              2022
+            ],
+            "notes": "*Begun revenue service in March 2022.\n*Options from the 9620-9784 order."
+          }
+        ]
+      },
+      {
+        "manufacturer": "Nova Bus",
+        "model": "LFS",
+        "roster": [
+          {
+            "fleet_selection": {
+              "start_number": 8964,
+              "end_number": 8973,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins L9",
+            "transmission": "ZF 6AP1400B",
+            "division": "MTA Bus",
+            "years": [
+              2022
+            ],
+            "notes": "*<ref>[https://new.mta.info/document/68221 135-bus diesel 40 ft order 2021]</ref>\n*Originally for 50 buses, option for 85 exercised for 135 total.\n*To replace remaining 2006-2010 OBI Orion VII (NG) HEV buses"
+          },
+          {
+            "fleet_selection": {
+              "start_number": 8974,
+              "end_number": 9180,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins L9",
+            "transmission": "ZF 6AP1400B",
+            "division": "MTA Bus",
+            "years": [
+              2023
+            ],
+            "notes": "*<ref>[https://new.mta.info/document/68221 135-bus diesel 40 ft order 2021]</ref>\n*Originally for 50 buses, option for 85 exercised for 135 total.\n*To replace remaining 2006-2010 OBI Orion VII (NG) HEV buses"
+          },
+          {
+            "fleet_selection": {
+              "start_number": 9181,
+              "end_number": 9271,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins L9",
+            "transmission": "ZF 6AP1400B",
+            "division": "MTA Bus",
+            "years": [
+              2024
+            ],
+            "notes": "*<ref>[https://new.mta.info/document/68221 135-bus diesel 40 ft order 2021]</ref>\n*Originally for 50 buses, option for 85 exercised for 135 total.\n*To replace remaining 2006-2010 OBI Orion VII (NG) HEV buses"
+          }
+        ]
+      },
+      {
+        "manufacturer": "New Flyer Industries",
+        "model": "XD40",
+        "roster": [
+          {
+            "fleet_selection": {
+              "start_number": 9272,
+              "end_number": 9387,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins L9",
+            "transmission": "Allison B400R",
+            "division": "MTA Bus",
+            "years": [
+              2024
+            ],
+            "notes": "*To replace remaining 2006-2010 OBI Orion VII (NG) HEV buses\n*All units in service as of July 2024."
+          }
+        ]
+      },
+      {
+        "manufacturer": "New Flyer Industries",
         "model": "XDE40",
         "roster": [
           {
@@ -895,8 +1555,14 @@
             "years": [
               2021
             ],
-            "notes": "*Exercised options from the 9510-9619 order. *All units in service by July 2022."
-          },
+            "notes": "*Exercised options from the 9510-9619 order.\n*All units in service by July 2022."
+          }
+        ]
+      },
+      {
+        "manufacturer": "New Flyer Industries",
+        "model": "XDE40",
+        "roster": [
           {
             "fleet_selection": {
               "start_number": 9500,
@@ -909,7 +1575,7 @@
             "years": [
               2018
             ],
-            "notes": "*<ref name=TransitApril2017></ref> *Split award of 628 buses with Nova Bus, which are exercised options following the firm contract order of 414 Nova Bus LFSes (8090-8503) and 348 New Flyer XD40s (7090-7437). *Features include a blue/gold wave livery, on-board Wi-Fi, USB charging ports and digital information screens."
+            "notes": "*<ref name=TransitApril2017></ref>\n*Split award of 628 buses with Nova Bus, which are exercised options following the firm contract order of 414 Nova Bus LFSes (8090-8503) and 348 New Flyer XD40s (7090-7437).\n*Features include a blue/gold wave livery, on-board Wi-Fi, USB charging ports and digital information screens."
           },
           {
             "fleet_selection": {
@@ -923,8 +1589,14 @@
             "years": [
               2018
             ],
-            "notes": "*<ref name=TransitApril2017></ref> *Split award of 628 buses with Nova Bus, which are exercised options following the firm contract order of 414 Nova Bus LFSes (8090-8503) and 348 New Flyer XD40s (7090-7437). *Features include a blue/gold wave livery, on-board Wi-Fi, USB charging ports and digital information screens."
-          },
+            "notes": "*<ref name=TransitApril2017></ref>\n*Split award of 628 buses with Nova Bus, which are exercised options following the firm contract order of 414 Nova Bus LFSes (8090-8503) and 348 New Flyer XD40s (7090-7437).\n*Features include a blue/gold wave livery, on-board Wi-Fi, USB charging ports and digital information screens."
+          }
+        ]
+      },
+      {
+        "manufacturer": "New Flyer Industries",
+        "model": "XDE40",
+        "roster": [
           {
             "fleet_selection": {
               "start_number": 9510,
@@ -938,7 +1610,7 @@
               2020,
               2021
             ],
-            "notes": "*First pilot (9510) arrived at vendor in late October 2020, entered service in November 2020 *Retired some 2006-2007 Orion VII HEVs"
+            "notes": "*First pilot (9510) arrived at vendor in late October 2020, entered service in November 2020\n*Retired some 2006-2007 Orion VII HEVs\n*2021 models, delivered in 2020-2021."
           },
           {
             "fleet_selection": {
@@ -953,7 +1625,7 @@
               2020,
               2021
             ],
-            "notes": "*First pilot (9510) arrived at vendor in late October 2020, entered service in November 2020 *Retired some 2006-2007 Orion VII HEVs"
+            "notes": "*First pilot (9510) arrived at vendor in late October 2020, entered service in November 2020\n*Retired some 2006-2007 Orion VII HEVs\n*2021 models, delivered in 2020-2021."
           }
         ]
       },
@@ -964,6 +1636,20 @@
           {
             "fleet_selection": {
               "start_number": 9620,
+              "end_number": 9622,
+              "use_numeric_sorting": true
+            },
+            "engine": "Cummins B6.7",
+            "transmission": "BAE HDS 200",
+            "division": "NYCTA",
+            "years": [
+              2020
+            ],
+            "notes": "*9620 delivered in August 2020, renumbered to 0022 before entering service in October 2020, pilot phase completed at the end of December 2020.\n*For NYCTA.\n*All units delivered by early 2023.\n**Retired many 2006-2007 OBI Orion VII HEVs and 2008-2009 VII NG HEVs\n*[http://novabus.com/nova-bus-kicks-off-2020-biggest-us-contract-history/ Press release]"
+          },
+          {
+            "fleet_selection": {
+              "start_number": 9623,
               "end_number": 9784,
               "use_numeric_sorting": true
             },
@@ -971,11 +1657,16 @@
             "transmission": "BAE HDS 200",
             "division": "NYCTA",
             "years": [
-              2020,
               2021
             ],
-            "notes": "*9620 delivered in August 2020, renumbered to 0022 before entering service in October 2020, pilot phase completed at the end of December 2020. *For NYCTA. *All units delivered by early 2023. **Retired many 2006-2007 OBI Orion VII HEVs and 2008-2009 VII NG HEVs *[http://novabus.com/nova-bus-kicks-off-2020-biggest-us-contract-history/ Press release]"
-          },
+            "notes": "*9620 delivered in August 2020, renumbered to 0022 before entering service in October 2020, pilot phase completed at the end of December 2020.\n*For NYCTA.\n*All units delivered by early 2023.\n**Retired many 2006-2007 OBI Orion VII HEVs and 2008-2009 VII NG HEVs\n*[http://novabus.com/nova-bus-kicks-off-2020-biggest-us-contract-history/ Press release]"
+          }
+        ]
+      },
+      {
+        "manufacturer": "Nova Bus",
+        "model": "LFS HEV",
+        "roster": [
           {
             "fleet_selection": {
               "start_number": 9785,
@@ -988,7 +1679,7 @@
             "years": [
               2021
             ],
-            "notes": "*Options from the 9620-9784 order. *First bus delivered in September 2021. **All units in service by May 2023."
+            "notes": "*Options from the 9620-9784 order.\n*First bus delivered in September 2021.\n**All units in service by May 2023."
           }
         ]
       }
