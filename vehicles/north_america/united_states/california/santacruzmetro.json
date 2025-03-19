@@ -250,8 +250,6 @@
                     "fleet_selection": {
                         "start_number": 1001,
                         "end_number": 1005,
-                        "start_text": "1001",
-                        "end_text": "1005",
                         "use_numeric_sorting": true
                     },
                     "engine": "Cummins Westport ISL G",
@@ -269,8 +267,6 @@
                     "fleet_selection": {
                         "start_number": 1201,
                         "end_number": 1211,
-                        "start_text": "1201",
-                        "end_text": "1211",
                         "use_numeric_sorting": true
                     },
                     "engine": "Cummins Westport ISL G",
@@ -409,8 +405,6 @@
                     "fleet_selection": {
                         "start_number": 1301,
                         "end_number": 1306,
-                        "start_text": "1301",
-                        "end_text": "1306",
                         "use_numeric_sorting": true
                     },
                     "engine": "Cummins Westport ISL G",
@@ -428,8 +422,6 @@
                     "fleet_selection": {
                         "start_number": 1610,
                         "end_number": 1612,
-                        "start_text": "1610",
-                        "end_text": "1612",
                         "use_numeric_sorting": true
                     },
                     "engine": "Cummins Westport ISL G",
@@ -447,8 +439,6 @@
                     "fleet_selection": {
                         "start_number": 1901,
                         "end_number": 1905,
-                        "start_text": "1901",
-                        "end_text": "1905",
                         "use_numeric_sorting": true
                     },
                     "engine": "Cummins Westport L9N",
@@ -459,8 +449,6 @@
                     "fleet_selection": {
                         "start_number": 2001,
                         "end_number": 2001,
-                        "start_text": "2001",
-                        "end_text": "2001",
                         "use_numeric_sorting": true
                     },
                     "engine": "Cummins Westport L9N",
@@ -477,8 +465,6 @@
                     "fleet_selection": {
                         "start_number": 2210,
                         "end_number": 2224,
-                        "start_text": "2210",
-                        "end_text": "2224",
                         "use_numeric_sorting": true
                     },
                     "engine": "John Deere 6081H",
@@ -496,8 +482,6 @@
                     "fleet_selection": {
                         "start_number": 2226,
                         "end_number": 2229,
-                        "start_text": "2226",
-                        "end_text": "2229",
                         "use_numeric_sorting": true
                     },
                     "engine": "John Deere 6081H",
@@ -515,8 +499,6 @@
                     "fleet_selection": {
                         "start_number": 2316,
                         "end_number": 2316,
-                        "start_text": "2316",
-                        "end_text": "2316",
                         "use_numeric_sorting": true
                     },
                     "engine": "Cummins ISL",
@@ -528,8 +510,6 @@
                     "fleet_selection": {
                         "start_number": 2318,
                         "end_number": 2318,
-                        "start_text": "2318",
-                        "end_text": "2318",
                         "use_numeric_sorting": true
                     },
                     "engine": "Cummins ISL",
@@ -541,8 +521,6 @@
                     "fleet_selection": {
                         "start_number": 2333,
                         "end_number": 2333,
-                        "start_text": "2333",
-                        "end_text": "2333",
                         "use_numeric_sorting": true
                     },
                     "engine": "Cummins ISL",
@@ -560,8 +538,6 @@
                     "fleet_selection": {
                         "start_number": 2601,
                         "end_number": 2602,
-                        "start_text": "2601",
-                        "end_text": "2602",
                         "use_numeric_sorting": true
                     },
                     "engine": "Cummins Westport ISL G",
@@ -573,8 +549,6 @@
                     "fleet_selection": {
                         "start_number": 2801,
                         "end_number": 2805,
-                        "start_text": "2801",
-                        "end_text": "2805",
                         "use_numeric_sorting": true
                     },
                     "engine": "Cummins Westport ISL G",
@@ -586,8 +560,6 @@
                     "fleet_selection": {
                         "start_number": 2806,
                         "end_number": 2813,
-                        "start_text": "2806",
-                        "end_text": "2813",
                         "use_numeric_sorting": true
                     },
                     "engine": "Cummins Westport ISL G",
@@ -604,8 +576,6 @@
                     "fleet_selection": {
                         "start_number": 4201,
                         "end_number": 4210,
-                        "start_text": "4201",
-                        "end_text": "4210",
                         "use_numeric_sorting": true
                     },
                     "engine": "Cummins ISB6.7",
@@ -623,8 +593,6 @@
                     "fleet_selection": {
                         "start_number": 9801,
                         "end_number": 9818,
-                        "start_text": "9801",
-                        "end_text": "9818",
                         "use_numeric_sorting": true
                     },
                     "engine": "Detroit Diesel Series 50",
@@ -641,8 +609,6 @@
                     "fleet_selection": {
                         "start_number": 9820,
                         "end_number": 9827,
-                        "start_text": "9820",
-                        "end_text": "9827",
                         "use_numeric_sorting": true
                     },
                     "engine": "Detroit Diesel Series 50",
@@ -659,8 +625,6 @@
                     "fleet_selection": {
                         "start_number": 11012,
                         "end_number": 11012,
-                        "start_text": "11012",
-                        "end_text": "11012",
                         "use_numeric_sorting": true
                     },
                     "engine": "Cummins Westport ISL G",
@@ -672,8 +636,6 @@
                     "fleet_selection": {
                         "start_number": 11016,
                         "end_number": 11016,
-                        "start_text": "11016",
-                        "end_text": "11016",
                         "use_numeric_sorting": true
                     },
                     "engine": "Cummins Westport ISL G",
@@ -685,8 +647,6 @@
                     "fleet_selection": {
                         "start_number": 11018,
                         "end_number": 11019,
-                        "start_text": "11018",
-                        "end_text": "11019",
                         "use_numeric_sorting": true
                     },
                     "engine": "Cummins Westport ISL G",
@@ -698,8 +658,6 @@
                     "fleet_selection": {
                         "start_number": 11022,
                         "end_number": 11023,
-                        "start_text": "11022",
-                        "end_text": "11023",
                         "use_numeric_sorting": true
                     },
                     "engine": "Cummins Westport ISL G",
@@ -711,8 +669,6 @@
                     "fleet_selection": {
                         "start_number": 11025,
                         "end_number": 11028,
-                        "start_text": "11025",
-                        "end_text": "11028",
                         "use_numeric_sorting": true
                     },
                     "engine": "Cummins Westport ISL G",
