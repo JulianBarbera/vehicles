@@ -179,6 +179,26 @@
                     "engine": "Cummins Westport L9N",
                     "transmission": "Allison B400R",
                     "years": [2021]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 1901,
+                        "end_number": 1905,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins Westport L9N",
+                    "transmission": "Allison B400R",
+                    "years": [2019]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 2001,
+                        "end_number": 2001,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins Westport L9N",
+                    "transmission": "Allison B400R",
+                    "years": [2020]
                 }
             ]
         },
@@ -428,32 +448,6 @@
                     "transmission": "Allison B400R",
                     "years": [2012],
                     "notes": "ex-Paul Revere Transportation"
-                }
-            ]
-        },
-        {
-            "manufacturer": "Gillig",
-            "model": "BRTPlus CNG 40' (G31D102N4)",
-            "roster": [
-                {
-                    "fleet_selection": {
-                        "start_number": 1901,
-                        "end_number": 1905,
-                        "use_numeric_sorting": true
-                    },
-                    "engine": "Cummins Westport L9N",
-                    "transmission": "Allison B400R",
-                    "years": [2019]
-                },
-                {
-                    "fleet_selection": {
-                        "start_number": 2001,
-                        "end_number": 2001,
-                        "use_numeric_sorting": true
-                    },
-                    "engine": "Cummins Westport L9N",
-                    "transmission": "Allison B400R",
-                    "years": [2020]
                 }
             ]
         },
