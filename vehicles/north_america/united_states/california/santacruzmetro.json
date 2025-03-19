@@ -277,6 +277,127 @@
                     "transmission": "Allison B400R",
                     "years": [2012],
                     "notes": "2011 model, built in 2012"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 5503,
+                        "end_number": 5503,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins Westport ISL G",
+                    "transmission": "Allison B400R",
+                    "years": [2007],
+                    "notes": "ex-Orange County Transportation Authority"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 5529,
+                        "end_number": 5531,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins Westport ISL G",
+                    "transmission": "Allison B400R",
+                    "years": [2007],
+                    "notes": "ex-Orange County Transportation Authority"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 5535,
+                        "end_number": 5535,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins Westport ISL G",
+                    "transmission": "Allison B400R",
+                    "years": [2007],
+                    "notes": "ex-Orange County Transportation Authority"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 5541,
+                        "end_number": 5541,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins Westport ISL G",
+                    "transmission": "Allison B400R",
+                    "years": [2007],
+                    "notes": "ex-Orange County Transportation Authority"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 5544,
+                        "end_number": 5544,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins Westport ISL G",
+                    "transmission": "Allison B400R",
+                    "years": [2007],
+                    "notes": "ex-Orange County Transportation Authority"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 5550,
+                        "end_number": 5550,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins Westport ISL G",
+                    "transmission": "Allison B400R",
+                    "years": [2007],
+                    "notes": "ex-Orange County Transportation Authority"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 5553,
+                        "end_number": 5553,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins Westport ISL G",
+                    "transmission": "Allison B400R",
+                    "years": [2007],
+                    "notes": "ex-Orange County Transportation Authority"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 5566,
+                        "end_number": 5566,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins Westport ISL G",
+                    "transmission": "Allison B400R",
+                    "years": [2007],
+                    "notes": "ex-Orange County Transportation Authority"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 7503,
+                        "end_number": 7503,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins Westport ISL G",
+                    "transmission": "Allison B400R",
+                    "years": [2008],
+                    "notes": "ex-Orange County Transportation Authority\n2007 model, built in 2008"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 7511,
+                        "end_number": 7511,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins Westport ISL G",
+                    "transmission": "Allison B400R",
+                    "years": [2008],
+                    "notes": "ex-Orange County Transportation Authority\n2007 model, built in 2008"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 7519,
+                        "end_number": 7519,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins Westport ISL G",
+                    "transmission": "Allison B400R",
+                    "years": [2008],
+                    "notes": "ex-Orange County Transportation Authority\n2007 model, built in 2008"
                 }
             ]
         },
