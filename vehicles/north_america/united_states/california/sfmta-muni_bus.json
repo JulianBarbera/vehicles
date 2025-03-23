@@ -1,0 +1,157 @@
+{
+    "vehicles": [
+        {
+            "manufacturer": "New Flyer",
+            "model": "XT40",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 5701,
+                        "end_number": 5702,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Vossloh Kiepe",
+                    "years": [2017]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 5703,
+                        "end_number": 5798,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Vossloh Kiepe",
+                    "years": [2018]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 5799,
+                        "end_number": 5885,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Vossloh Kiepe",
+                    "years": [2019]
+                }
+            ]
+        },
+        {
+            "manufacturer": "New Flyer",
+            "model": "XT60",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 7201,
+                        "end_number": 7202,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Vossloh Kiepe",
+                    "years": [2014]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 7203,
+                        "end_number": 7260,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Vossloh Kiepe",
+                    "years": [2015]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 7261,
+                        "end_number": 7285,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Vossloh Kiepe",
+                    "years": [2017]
+                },
+                {
+                "fleet_selection": {
+                    "start_number": 7286,
+                    "end_number": 7293,
+                    "use_numeric_sorting": true
+                },
+                "engine": "Vossloh Kiepe",
+                "years": [2018]
+                }
+            ]
+        },
+        {
+            "manufacturer": "New Flyer",
+            "model": "XDE60",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 6500,
+                        "end_number": 6554,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISL9",
+                    "transmission": "Allison H 50 EP",
+                    "years": [2015]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 6560,
+                        "end_number": 6584,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISL9",
+                    "transmission": "Allison H 50 EP",
+                    "years": [2016],
+                    "notes": "2015 model, built in 2016"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 6585,
+                        "end_number": 6609,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISL9",
+                    "transmission": "Allison H 50 EP",
+                    "years": [2016]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 6610,
+                        "end_number": 6628,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISL9",
+                    "transmission": "Allison H 50 EP",
+                    "years": [2016]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 6629,
+                        "end_number": 6664,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISL9",
+                    "transmission": "Allison H 50 EP",
+                    "years": [2017]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 6665,
+                        "end_number": 6697,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISL9",
+                    "transmission": "Allison H 50 EP",
+                    "years": [2018]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 6700,
+                        "end_number": 6730,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISL9",
+                    "transmission": "BAE HybriDrive",
+                    "years": [2015],
+                    "notes": "The year shown may be incorrect; updated info is pending"
+                }
+            ]
+        }    
+    ]
+}
