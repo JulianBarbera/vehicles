@@ -305,6 +305,22 @@
             ]
         },
         {
+            "manufacturer": "Proterra",
+            "model": "ZX5 40'",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 5007,
+                        "end_number": 5009,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Parker GVM310",
+                    "transmission": "Eaton EEV-7202",
+                    "years": [2021]
+                }
+            ]
+        },
+        {
             "manufacturer": "Nova Bus",
             "model": "LFSe+ 40'",
             "roster": [
