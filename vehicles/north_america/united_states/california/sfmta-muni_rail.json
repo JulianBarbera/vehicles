@@ -101,6 +101,75 @@
                     "years": [2003]
                 }
             ]
+        },
+        {
+            "manufacturer": "Siemens",
+            "model": "LRV4 (S200 SF)",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 2001,
+                        "end_number": 2001,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Siemens IGBT-VVVF",
+                    "years": [2016]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 2002,
+                        "end_number": 2003,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Siemens IGBT-VVVF",
+                    "years": [2017]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 2004,
+                        "end_number": 2004,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Siemens IGBT-VVVF",
+                    "years": [2018]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 2005,
+                        "end_number": 2024,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Siemens IGBT-VVVF",
+                    "years": [2017]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 2025,
+                        "end_number": 2052,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Siemens IGBT-VVVF",
+                    "years": [2018]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 2053,
+                        "end_number": 2068,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Siemens IGBT-VVVF",
+                    "years": [2019]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 2069,
+                        "end_number": 2118,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Siemens IGBT-VVVF",
+                    "years": [2021]
+                }
+            ]
         }
     ]
 }
