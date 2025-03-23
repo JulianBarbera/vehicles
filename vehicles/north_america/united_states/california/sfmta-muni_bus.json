@@ -152,6 +152,85 @@
                     "notes": "The year shown may be incorrect; updated info is pending"
                 }
             ]
-        }    
+        },
+        {
+            "manufacturer": "New Flyer",
+            "model": "XDE40",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 8601,
+                        "end_number": 8623,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISL9",
+                    "transmission": "Allison H 50 EP",
+                    "years": [2013]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 8624,
+                        "end_number": 8662,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISB6.7",
+                    "transmission": "BAE HybriDrive",
+                    "years": [2013]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 8701,
+                        "end_number": 8750,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISB6.7",
+                    "transmission": "BAE HybriDrive",
+                    "years": [2013]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 8751,
+                        "end_number": 8780,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins B6.7",
+                    "transmission": "BAE HybriDrive Series-E",
+                    "years": [2017],
+                    "notes": "The transmission shown may be incorrect; updated info is pending"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 8800,
+                        "end_number": 8823,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISB6.7",
+                    "transmission": "BAE HybriDrive Series-E",
+                    "years": [2016],
+                    "notes": "The transmission shown may be incorrect; updated info is pending"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 8824,
+                        "end_number": 8901,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISL9",
+                    "transmission": "Allison H 50 EP",
+                    "years": [2016]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 8902,
+                        "end_number": 8969,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins L9",
+                    "transmission": "BAE HybriDrive Series-ER",
+                    "years": [2018],
+                    "notes": "The transmission shown may be incorrect; updated info is pending"
+                }
+            ]
+        }
     ]
 }
