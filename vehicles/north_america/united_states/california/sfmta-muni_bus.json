@@ -231,6 +231,103 @@
                     "notes": "The transmission shown may be incorrect; updated info is pending"
                 }
             ]
+        },
+        {
+            "manufacturer": "Orion Bus Industries",
+            "model": "Orion VII HEV 07.503",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 8501,
+                        "end_number": 8530,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISB",
+                    "transmission": "BAE HybriDrive",
+                    "years": [2007]
+                }
+            ]
+        },
+        {
+            "manufacturer": "ElDorado National-California",
+            "model": "E-Z Rider II BRT HEV 30'",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 8531,
+                        "end_number": 8531,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins B6.7",
+                    "transmission": "Allison H 40 EP",
+                    "years": [2021]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 8532,
+                        "end_number": 8560,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins B6.7",
+                    "transmission": "Allison H 40 EP",
+                    "years": [2022]
+                }
+            ]
+        },
+        {
+            "manufacturer": "New Flyer",
+            "model": "XE40",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 5001,
+                        "end_number": 5003,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Siemens ELFA2",
+                    "years": [2021]
+                }
+            ]
+        },
+        {
+            "manufacturer": "BYD",
+            "model": "K9MD 40'",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 5004,
+                        "end_number": 5006,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "BTD TYC-150A",
+                    "years": [2021]
+                }
+            ]
+        },
+        {
+            "manufacturer": "Nova Bus",
+            "model": "LFSe+ 40'",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 5010,
+                        "end_number": 5010,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "BAE Series-EV",
+                    "years": [2022]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 5011,
+                        "end_number": 5012,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "BAE Series-EV",
+                    "years": [2022],
+                    "notes": "2023 model, built in 2022"
+                }
+            ]
         }
     ]
 }
