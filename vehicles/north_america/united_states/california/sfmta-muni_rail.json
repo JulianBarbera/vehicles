@@ -1,0 +1,106 @@
+{
+    "vehicles": [
+        {
+            "manufacturer": "Breda",
+            "model": "LRV2",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 1400,
+                        "end_number": 1400,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "General Electric AC",
+                    "years": [1994]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 1401,
+                        "end_number": 1404,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "General Electric AC",
+                    "years": [1995]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 1405,
+                        "end_number": 1419,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "General Electric AC",
+                    "years": [1996]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 1420,
+                        "end_number": 1450,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "General Electric AC",
+                    "years": [1997]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 1451,
+                        "end_number": 1476,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "General Electric AC",
+                    "years": [1998]
+                }
+            ]
+        },
+        {
+            "manufacturer": "Breda",
+            "model": "LRV3",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 1477,
+                        "end_number": 1477,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "General Electric AC",
+                    "years": [1999]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 1478,
+                        "end_number": 1503,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "General Electric AC",
+                    "years": [2000]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 1504,
+                        "end_number": 1535,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "General Electric AC",
+                    "years": [2001]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 1536,
+                        "end_number": 1547,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "General Electric AC",
+                    "years": [2002]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 1548,
+                        "end_number": 1550,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "General Electric AC",
+                    "years": [2003]
+                }
+            ]
+        }
+    ]
+}
