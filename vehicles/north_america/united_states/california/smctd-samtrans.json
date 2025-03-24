@@ -2,7 +2,7 @@
     "vehicles": [
         {
             "manufacturer": "Gillig",
-            "model": "BRT 40' (G27D102N4)'",
+            "model": "BRT 40' (G27D102N4)",
             "roster": [
                 {
                     "fleet_selection": {
@@ -59,7 +59,7 @@
         },
         {
             "manufacturer": "Gillig",
-            "model": "BRT HEV 40' (G30D102N4)'",
+            "model": "BRT HEV 40' (G30D102N4)",
             "roster": [
                 {
                     "fleet_selection": {
@@ -75,7 +75,7 @@
         },
         {
             "manufacturer": "Gillig",
-            "model": "BRT 35' (G27B102N4)'",
+            "model": "BRT 35' (G27B102N4)",
             "roster": [
                 {
                     "fleet_selection": {
@@ -102,7 +102,7 @@
         },
         {
             "manufacturer": "Gillig",
-            "model": "Low Floor 29' (G27E102N2)'",
+            "model": "Low Floor 29' (G27E102N2)",
             "roster": [
                 {
                     "fleet_selection": {
@@ -130,7 +130,7 @@
         },
         {
             "manufacturer": "Gillig",
-            "model": "Low Floor Plus EV 40' (G28D102N4)'",
+            "model": "Low Floor Plus EV 40' (G28D102N4)",
             "roster": [
                 {
                     "fleet_selection": {
@@ -139,6 +139,72 @@
                         "use_numeric_sorting": true
                     },
                     "years": [2024]
+                }
+            ]
+        },
+        {
+            "manufacturer": "New Flyer",
+            "model": "XD60",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 800,
+                        "end_number": 844,
+                        "use_numeric_sorting": true
+                    },
+                    "engine":"Cummins L9",
+                    "transmission": "Voith D864.6",
+                    "years": [2019]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 845,
+                        "end_number": 854,
+                        "use_numeric_sorting": true
+                    },
+                    "engine":"Cummins L9",
+                    "transmission": "Voith D864.6",
+                    "years": [2019],
+                    "notes": "Operated by MV Transportation"
+                }
+            ]
+        },
+        {
+            "manufacturer": "New Flyer",
+            "model": "XE40",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 1000,
+                        "end_number": 1000,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Siemens ELFA3",
+                    "years": [2022]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 1001,
+                        "end_number": 1016,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Siemens ELFA3",
+                    "years": [2023]
+                }
+            ]
+        },
+        {
+            "manufacturer": "New Flyer",
+            "model": "XHE40",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 3000,
+                        "end_number": 3009,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Siemens ELFA3",
+                    "years": [2023]
                 }
             ]
         }
