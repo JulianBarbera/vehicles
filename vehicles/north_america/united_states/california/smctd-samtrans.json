@@ -1,0 +1,146 @@
+{
+    "vehicles": [
+        {
+            "manufacturer": "Gillig",
+            "model": "BRT 40' (G27D102N4)'",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 400,
+                        "end_number": 450,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISL",
+                    "transmission": "Voith D864.5", 
+                    "years": [2009]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 451,
+                        "end_number": 470,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISL",
+                    "transmission": "Voith D864.5", 
+                    "years": [2010]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 471,
+                        "end_number": 490,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISL",
+                    "transmission": "Voith D864.5", 
+                    "years": [2010],
+                    "notes": "Operated by MV Transportation"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 600,
+                        "end_number": 649,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins L9",
+                    "transmission": "Voith D864.6", 
+                    "years": [2017]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 900,
+                        "end_number": 920,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISL9",
+                    "transmission": "Voith D864.5", 
+                    "years": [2014]
+                }
+            ]
+        },
+        {
+            "manufacturer": "Gillig",
+            "model": "BRT HEV 40' (G30D102N4)'",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 700,
+                        "end_number": 724,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISB6.7",
+                    "transmission": "Allison H 40 EP", 
+                    "years": [2013]
+                }
+            ]
+        },
+        {
+            "manufacturer": "Gillig",
+            "model": "BRT 35' (G27B102N4)'",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 500,
+                        "end_number": 528,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISL",
+                    "transmission": "Voith D864.5", 
+                    "years": [2010]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 529,
+                        "end_number": 539,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISL",
+                    "transmission": "Voith D864.5", 
+                    "years": [2010],
+                    "notes":"Operated by MV Transportation"
+                }
+            ]
+        },
+        {
+            "manufacturer": "Gillig",
+            "model": "Low Floor 29' (G27E102N2)'",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 2910,
+                        "end_number": 2913,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISL9",
+                    "transmission": "Voith D864.5", 
+                    "years": [2013],
+                    "notes": "One-door\nModel number may be incorrect; updated info is pending"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 2950,
+                        "end_number": 2961,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISL9",
+                    "transmission": "Voith D864.5", 
+                    "years": [2014],
+                    "notes": "One-door\nModel number may be incorrect; updated info is pending"
+                }
+            ]
+        },
+        {
+            "manufacturer": "Gillig",
+            "model": "Low Floor Plus EV 40' (G28D102N4)'",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 5000,
+                        "end_number": 5019,
+                        "use_numeric_sorting": true
+                    },
+                    "years": [2024]
+                }
+            ]
+        }
+    ]
+}
