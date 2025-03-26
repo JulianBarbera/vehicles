@@ -157,6 +157,167 @@
                     "notes": "Double-decker"
                 }
             ]
+        },
+        {
+            "manufacturer": "Gillig",
+            "model": "Low Floor 40' (G27D102N4)",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 6101,
+                        "end_number": 6116,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISL9",
+                    "transmission": "Allison B400R",
+                    "years": [2013],
+                    "notes": "Equipped with overhead luggage racks"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 6117,
+                        "end_number": 6154,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISL9",
+                    "transmission": "Allison B400R",
+                    "years": [2014],
+                    "notes": "Equipped with overhead luggage racks"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 1301,
+                        "end_number": 1301,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISL9",
+                    "transmission": "Allison B400R", 
+                    "years": [2012],
+                    "notes": "Transmission may be incorrect; updated info is pending"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 1302,
+                        "end_number": 1365,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISL9",
+                    "transmission": "Allison B400R", 
+                    "years": [2013]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 1401,
+                        "end_number": 1468,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISL9",
+                    "transmission": "Allison B400R", 
+                    "years": [2014]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 1501,
+                        "end_number": 1555,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISL9",
+                    "transmission": "Allison B400R", 
+                    "years": [2016]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 1581,
+                        "end_number": 1590,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISL9",
+                    "transmission": "Voith D864.6", 
+                    "years": [2017]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 1601,
+                        "end_number": 1635,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins L9",
+                    "transmission": "Voith D864.6", 
+                    "years": [2018],
+                    "notes": "Transmission may be incorrect; updated info is pending"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 1641,
+                        "end_number": 1690,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins L9",
+                    "transmission": "Voith D864.6", 
+                    "years": [2022],
+                    "notes": "Transmission may be incorrect; updated info is pending"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 1701,
+                        "end_number": 1750,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins L9",
+                    "years": [2024],
+                    "notes": "Updated info is pending"
+                }
+            ]
+        },
+        {
+            "manufacturer": "Gillig",
+            "model": "Low Floor HEV 40' (G30D102N4)",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 1556,
+                        "end_number": 1580,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISB6.7",
+                    "transmission": "BAE HybriDrive", 
+                    "years": [2016]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 1591,
+                        "end_number": 1591,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins B6.7",
+                    "transmission": "BAE HybriDrive", 
+                    "years": [2019]
+                }
+            ]
+        },
+        {
+            "manufacturer": "Gillig",
+            "model": "Low Floor EV 40' (G28D102N4)",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 8006,
+                        "end_number": 8007,
+                        "use_numeric_sorting": true
+                    },
+                    "years": [2021],
+                    "notes": "Updated info is pending"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 8008,
+                        "end_number": 8028,
+                        "use_numeric_sorting": true
+                    },
+                    "years": [2022],
+                    "notes": "Updated info is pending"
+                }
+            ]
         }
     ]
 }
