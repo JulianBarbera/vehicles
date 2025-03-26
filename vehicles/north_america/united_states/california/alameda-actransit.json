@@ -1,0 +1,73 @@
+{
+    "vehicles": [
+        {
+            "manufacturer": "Van Hool",
+            "model": "A300L 40'",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 1202,
+                        "end_number": 1225,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISL",
+                    "transmission": "Voith D864.5", 
+                    "years": [2008]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 1226,
+                        "end_number": 1227,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISL",
+                    "transmission": "Voith D864.5", 
+                    "years": [2009]
+                }
+            ]
+        },
+        {
+            "manufacturer": "Van Hool",
+            "model": "AG300 60'",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 2191,
+                        "end_number": 2199,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISL",
+                    "transmission": "Voith D864.5", 
+                    "years": [2009]
+                }
+            ]
+        },
+        {
+            "manufacturer": "Van Hool",
+            "model": "AG300K 30'",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 5106,
+                        "end_number": 5125,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISB",
+                    "transmission": "Voith D854.5", 
+                    "years": [2009],
+                    "notes": "2008 model, built in 2009"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 5126,
+                        "end_number": 5139,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISB",
+                    "transmission": "Voith D854.5", 
+                    "years": [2009]
+                }
+            ]
+        }
+    ]
+}
