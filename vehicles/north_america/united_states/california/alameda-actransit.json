@@ -140,6 +140,23 @@
                     "years": [2022]
                 }
             ]
+        },
+        {
+            "manufacturer": "Alexander Dennis",
+            "model": "Enviro500",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 6201,
+                        "end_number": 6215,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins L9",
+                    "transmission": "Allison B500R", 
+                    "years": [2018],
+                    "notes": "Double-decker"
+                }
+            ]
         }
     ]
 }
