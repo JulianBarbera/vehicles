@@ -318,6 +318,89 @@
                     "notes": "Updated info is pending"
                 }
             ]
+        },
+        {
+            "manufacturer": "New Flyer",
+            "model": "XD60",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 2201,
+                        "end_number": 2223,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISL9",
+                    "transmission": "Allison B500R",
+                    "years": [2013]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 2224,
+                        "end_number": 2252,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins L9",
+                    "transmission": "Allison B500R",
+                    "years": [2017]
+                }
+            ]
+        },
+        {
+            "manufacturer": "New Flyer",
+            "model": "XDE60",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 2301,
+                        "end_number": 2327,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISL9",
+                    "transmission": "BAE HybriDrive Series-E",
+                    "years": [2016],
+                    "notes": "Five-door; three on the right, two on the left"
+                }
+            ]
+        },
+        {
+            "manufacturer": "New Flyer",
+            "model": "XHE40",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 7017,
+                        "end_number": 7026,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Siemens ELFA2",
+                    "years": [2018],
+                    "notes": "2019 model, built in 2018"
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 7031,
+                        "end_number": 7050,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Siemens ELFA2",
+                    "years": [2022]
+                }
+            ]
+        },
+        {
+            "manufacturer": "New Flyer",
+            "model": "XE40",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 8001,
+                        "end_number": 8005,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Siemens ELFA2",
+                    "years": [2019]
+                }
+            ]
         }
     ]
 }
