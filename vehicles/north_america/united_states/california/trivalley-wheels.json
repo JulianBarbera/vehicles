@@ -1,0 +1,52 @@
+{
+    "vehicles": [
+        {
+            "manufacturer": "Gillig",
+            "model": "BRT HEV 40' (G30D102N4)",
+            "roster": [
+                {
+                    "fleet_selection": {
+                        "start_number": 903,
+                        "end_number": 914,
+                        "start_text": "0903",
+                        "end_text": "0914",
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISB",
+                    "transmission": "Allison E<sup>P</sup>40", 
+                    "years": [2009]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 1611,
+                        "end_number": 1620,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISB6.7",
+                    "transmission": "null", 
+                    "years": [2016]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 1701,
+                        "end_number": 1711,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins ISB6.7",
+                    "transmission": "null", 
+                    "years": [2017]
+                },
+                {
+                    "fleet_selection": {
+                        "start_number": 2201,
+                        "end_number": 2216,
+                        "use_numeric_sorting": true
+                    },
+                    "engine": "Cummins B6.7",
+                    "transmission": "null", 
+                    "years": [2022]
+                }
+            ]
+        }
+    ]
+}
