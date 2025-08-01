@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Catenary CRUD</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Catenary CRUD</h1>
+
+  <div id="messages"></div>
+
+  <div class="toolbar">
+    <input type="file" id="fileInput">
+    <button id="loadButton">Load JSON</button>
+    <button id="downloadButton">Download JSON</button>
+    <button id="undoButton">Undo</button>
+    <button id="redoButton">Redo</button>
+    <button id="addVehicle">Add Vehicle</button>
+    <button id="toggleDarkMode">Dark Mode</button>
+    <input type="text" id="filenameInput" placeholder="Set output filename">
+    <input type="text" id="searchInput" placeholder="Search by name or fleet number">
+  </div>
+
+  <div id="main">
+    <div id="editor"></div>
+    <div id="preview">
+      <pre id="jsonPreview"><code></code></pre>
+    </div>
+  </div>
+
+  <datalist id="manufacturerList"></datalist>
+  <datalist id="modelList"></datalist>
+  <datalist id="engineList"></datalist>
+  <datalist id="transmissionList"></datalist>
+
+  <div id="dropZone">Drop JSON file to load</div>
+
+  <footer>
+    Catenary CRUD v1.1, by Julia | <a href="https://github.com/catenarytransit/vehicles" target="_blank">Catenary Vehicles</a>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
